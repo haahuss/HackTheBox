@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,16 +275,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a049ed790d988a6a",
+  "active": "39eb076f04176368",
   "lastOpenFiles": [
+    "cicada/netexec.md",
+    "cicada/nmap.md",
+    "cicada/smbclient.md",
+    "💡ToLearn-ToDo.md",
+    "cicada/enum4linux.md",
     "cicada/notefromhr.txt.md",
     "cicada/notes.md",
-    "cicada/nmap.md",
-    "cicada/enum4linux.md",
-    "cicada/netexec.md",
-    "cicada/smbclient.md",
     "cicada/kerbrute.md",
-    "💡ToLearn-ToDo.md",
+    "haahuss.ovpn",
     "link.md",
     "cicada"
   ]
