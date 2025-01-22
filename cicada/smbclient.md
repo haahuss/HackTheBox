@@ -14,3 +14,7 @@ smb: \>
 
 
 ```
+
+```
+smbclient -I 10.10.11.35 -L cicada.htb -U cicada.htb\michael.wrightson%'Cicada$M6Corpb*@Lp#nZp!8'
+```
