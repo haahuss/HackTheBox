@@ -6,9 +6,6 @@ IP
 HOSTNAME
 
 # Other Notes:
-```
-
-```
 
 
 # Steps to Compromise:

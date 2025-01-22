@@ -1,9 +1,9 @@
 
 # IP
-IP
+
 
 # Hostname
-HOSTNAME
+netmon.htb
 
 # Other Notes:
 ```

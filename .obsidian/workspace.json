@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5fc1fdfaa7264c70",
+        "id": "895abfcc7e5e48c7",
         "type": "tabs",
         "children": [
           {
-            "id": "a6016076f858254c",
+            "id": "2d0b0843c8f14f7a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "sea/canvas.canvas",
-                "viewState": {
-                  "x": 149.83101710264316,
-                  "y": 5962.585135704084,
-                  "zoom": -0.1553686367184478
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "canvas"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -165,44 +158,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6016076f858254c",
+  "active": "2d0b0843c8f14f7a",
   "lastOpenFiles": [
-    "nibbles/nmap scans.md",
+    "netmon/exploit.md",
+    "netmon/canvas.canvas",
+    "netmon/nmap scans.md",
+    "netmon/General Notes.md",
+    "netmon/attachments/Pasted image 20250121163701.png",
+    "netmon/attachments/Pasted image 20250121163442.png",
+    "netmon/attachments/Pasted image 20250121163418.png",
+    "netmon/attachments/Pasted image 20250121163336.png",
+    "netmon/attachments/Pasted image 20250121162506.png",
+    "netmon/attachments/Pasted image 20250121162424.png",
+    "netmon/attachments/Pasted image 20250121160837.png",
+    "netmon/attachments/Pasted image 20250121160646.png",
+    "netmon/attachments/Pasted image 20250121160632.png",
+    "netmon/attachments/Pasted image 20250121154719.png",
+    "netmon/attachments",
+    "jerry/canvas.canvas",
+    "jerry/nmap scans.md",
     "nibbles/General Notes.md",
+    "jerry/General Notes.md",
+    "jerry/attachments",
+    "TEMPLATE/General Notes.md",
+    "TEMPLATE/canvas.canvas",
+    "TEMPLATE/nmap scans.md",
+    "sea/canvas.canvas",
+    "nibbles/nmap scans.md",
     "nibbles/canvas.canvas",
     "nibbles",
     "TEMPLATE - Copy/nmap scans.md",
     "TEMPLATE - Copy/General Notes.md",
     "TEMPLATE - Copy/canvas.canvas",
     "TEMPLATE - Copy",
-    "jerry/nmap scans.md",
-    "jerry/General Notes.md",
-    "jerry/canvas.canvas",
     "jerry",
-    "netmon/nmap scans.md",
-    "netmon/General Notes.md",
-    "netmon/canvas.canvas",
     "netmon",
     "sea/nmap scans.md",
     "sea/General Notes.md",
-    "sea/canvas.canvas",
     "sea/Path to compromise.md",
-    "sea/attachments/Pasted image 20250120165556.png",
-    "sea/attachments/Pasted image 20250120165548.png",
-    "sea/attachments/Pasted image 20250120165523.png",
-    "sea/attachments/Pasted image 20250120165438.png",
-    "sea/attachments/Pasted image 20250120164945.png",
-    "sea/attachments/Pasted image 20250120164627.png",
     "💡ToLearn-ToDo.md",
-    "sea/attachments/Pasted image 20250120164251.png",
-    "sea/attachments/Pasted image 20250120164229.png",
-    "sea/attachments/Pasted image 20250120164043.png",
-    "sea/attachments/Pasted image 20250120164007.png",
     "sea/attachments/Pasted image 20250120160212.png.~tmp",
     "sea/attachments",
-    "TEMPLATE/nmap scans.md",
-    "TEMPLATE/General Notes.md",
-    "TEMPLATE/canvas.canvas",
     "TEMPLATE",
     "cicada/notefromhr.txt.md",
     "cicada/enum4linux.md",
@@ -212,8 +208,6 @@
     "cicada/kerbrute.md",
     "cicada/netexec.md",
     "cicada/smbclient.md",
-    "haahuss.ovpn",
-    "link.md",
-    "cicada"
+    "link.md"
   ]
 }

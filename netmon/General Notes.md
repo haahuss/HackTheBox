@@ -1,14 +1,12 @@
 
 # IP
-IP
+10.10.10.152
 
 # Hostname
-HOSTNAME
+netmon.htb
 
 # Other Notes:
-```
 
-```
 
 
 # Steps to Compromise:

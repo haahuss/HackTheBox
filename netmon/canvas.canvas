@@ -1,1 +1,28 @@
-{}
+{
+	"nodes":[
+		{"id":"ba9ce0b88b0511cf","type":"file","file":"netmon/attachments/Pasted image 20250121142726.png","x":-280,"y":-120,"width":400,"height":267},
+		{"id":"65eaafe2a43f048d","type":"text","text":"80 - Indy httpd","x":-205,"y":-260,"width":250,"height":60},
+		{"id":"fdf8aa66f1660fc0","type":"text","text":"21 - FTP","x":1000,"y":-260,"width":250,"height":60},
+		{"id":"47f332cec92feef5","type":"file","file":"netmon/attachments/Pasted image 20250121142809.png","x":925,"y":-120,"width":400,"height":161},
+		{"id":"43b9584e5f40a45d","x":925,"y":120,"width":400,"height":254,"type":"file","file":"netmon/attachments/Pasted image 20250121143339.png"},
+		{"id":"7874e86a7cc01744","x":-320,"y":1040,"width":400,"height":88,"type":"file","file":"netmon/attachments/Pasted image 20250121144219.png"},
+		{"id":"d9bbf122152a4128","x":-80,"y":1213,"width":592,"height":204,"type":"link","url":"https://github.com/A1vinSmith/CVE-2018-9276"},
+		{"id":"e273c166667f5690","x":850,"y":969,"width":550,"height":488,"type":"file","file":"netmon/attachments/Pasted image 20250121154144.png"},
+		{"id":"25223acf7fbee025","x":871,"y":1529,"width":454,"height":60,"type":"text","text":"C:\\ProgramData\\Paessler\\PRTG Network Monitor"},
+		{"id":"e4169782296163aa","x":898,"y":1660,"width":400,"height":243,"type":"file","file":"netmon/attachments/Pasted image 20250121154719.png"},
+		{"id":"3b05da68c40044be","x":898,"y":2040,"width":400,"height":145,"type":"file","file":"netmon/attachments/Pasted image 20250121154605.png"},
+		{"id":"5fda732c1422393f","x":973,"y":1940,"width":250,"height":60,"type":"text","text":"PRTG Configuration.old.bak"},
+		{"id":"5028afb0735b0f47","x":922,"y":2240,"width":352,"height":80,"type":"text","text":"PrTg@dmin2018\nPrTg@dmin2019 --> works"},
+		{"id":"ebe12cff9415a233","x":-633,"y":1500,"width":1106,"height":360,"type":"file","file":"netmon/attachments/Pasted image 20250121160646.png"},
+		{"id":"9841f1ca7850758a","x":-523,"y":1960,"width":806,"height":140,"type":"file","file":"netmon/attachments/Pasted image 20250121160632.png"},
+		{"id":"c0b7151b59bea4c0","x":-2000,"y":1217,"width":480,"height":200,"type":"link","url":"https://www.rapid7.com/db/modules/exploit/windows/http/prtg_authenticated_rce/"},
+		{"id":"caf457f208c63d87","x":-1960,"y":1562,"width":400,"height":236,"type":"file","file":"netmon/attachments/Pasted image 20250121162424.png"},
+		{"id":"b6950263c5b377db","x":-1960,"y":1912,"width":400,"height":376,"type":"file","file":"netmon/attachments/Pasted image 20250121162506.png"},
+		{"id":"0ecbf101f599aab0","x":-523,"y":2200,"width":803,"height":440,"type":"file","file":"netmon/attachments/Pasted image 20250121163442.png"},
+		{"id":"c53d603f7b1567e5","x":-1103,"y":2720,"width":804,"height":460,"type":"file","file":"netmon/attachments/Pasted image 20250121163418.png"},
+		{"id":"6b2134697654f220","x":-1560,"y":2890,"width":250,"height":60,"type":"text","text":"sudo python3 /opt/impacket/build/scripts-3.11/psexec.py pentest:'P3nT3st!'@10.10.10.152"},
+		{"id":"856dd30eef54bc18","x":-200,"y":2720,"width":705,"height":460,"type":"file","file":"netmon/attachments/Pasted image 20250121163701.png"},
+		{"id":"9b4682e17e0f1926","x":517,"y":2896,"width":456,"height":54,"type":"text","text":"└─$ evil-winrm -i 10.10.10.152 -u pentest -p 'P3nT3st!'\n"}
+	],
+	"edges":[]
+}

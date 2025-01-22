@@ -2,7 +2,6 @@ Find Open Ports:
 ```
 sudo nmap TARGET -p- -T5 -oA listopenports -Pn -n --disable-arp-ping
 
-
 ```
 
 List of open ports:
