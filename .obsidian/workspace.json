@@ -8,20 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bb4512d9cb9f619",
+            "id": "2fd1dddbb47cc782",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "jerry/canvas.canvas",
+                "file": "nibbles/canvas.canvas",
                 "viewState": {
-                  "x": 381.9810171252258,
-                  "y": 1091.207756193194,
-                  "zoom": -0.835139582157135
+                  "x": 1863.7193028093898,
+                  "y": 3202.9976490448826,
+                  "zoom": 0.3164336593945824
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "canvas"
+            }
+          },
+          {
+            "id": "00bea8bf93bde644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nibbles/nmap scans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nmap scans"
             }
           }
         ]
@@ -165,23 +179,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bb4512d9cb9f619",
+  "active": "2fd1dddbb47cc782",
   "lastOpenFiles": [
-    "jerry/attachments/Screenshot 2025-01-22 at 10.44.12 PM.png",
-    "jerry/attachments/Screenshot 2025-01-22 at 10.43.14 PM.png",
-    "jerry/attachments/Screenshot 2025-01-22 at 10.41.01 PM.png",
-    "jerry/attachments/Screenshot 2025-01-22 at 7.32.43 PM 1.png",
-    "jerry/attachments/Screenshot 2025-01-22 at 7.39.49 PM.png",
-    "jerry/attachments/Screenshot 2025-01-22 at 7.38.44 PM.png",
-    "jerry/attachments/Screenshot 2025-01-22 at 7.35.21 PM.png",
-    "jerry/attachments/Screenshot 2025-01-22 at 7.32.14 PM.png",
-    "jerry/attachments/Screenshot 2025-01-22 at 7.32.43 PM.png",
-    "jerry/attachments/Screenshot 2025-01-22 at 7.27.54 PM.png",
-    "jerry/attachments",
-    "cicada/canvas.canvas",
+    "nibbles/nmap scans.md",
+    "nibbles/canvas.canvas",
+    "nibbles/attachments/Screenshot 2025-01-23 at 4.24.51 PM.png",
+    "nibbles/attachments/Screenshot 2025-01-23 at 4.24.08 PM.png",
+    "nibbles/attachments/Screenshot 2025-01-23 at 4.23.12 PM.png",
+    "nibbles/attachments/Screenshot 2025-01-23 at 4.06.22 PM.png",
+    "nibbles/attachments/Screenshot 2025-01-23 at 4.05.47 PM.png",
+    "nibbles/attachments/Screenshot 2025-01-23 at 4.04.50 PM.png",
+    "nibbles/attachments/Screenshot 2025-01-23 at 4.04.18 PM.png",
+    "nibbles/attachments/Screenshot 2025-01-23 at 4.03.21 PM 1.png",
+    "nibbles/attachments/Screenshot 2025-01-23 at 4.03.21 PM.png",
+    "nibbles/attachments/Screenshot 2025-01-23 at 3.58.53 PM.png",
+    "nibbles/attachments",
     "jerry/canvas.canvas",
     "jerry/nmap scans.md",
-    "cicada/attachments/Screenshot 2025-01-22 at 5.00.42 PM.png",
+    "jerry/attachments",
+    "cicada/canvas.canvas",
     "cicada/nmap.md",
     "cicada/attachments",
     "cicada/netexec.md",
@@ -196,8 +212,6 @@
     "sea/canvas.canvas",
     "sea/attachments",
     "sea/General Notes.md",
-    "nibbles/nmap scans.md",
-    "nibbles/canvas.canvas",
     "nibbles/General Notes.md",
     "nibbles",
     "netmon/nmap scans.md",
@@ -213,7 +227,6 @@
     "TEMPLATE/General Notes.md",
     "TEMPLATE",
     "sea",
-    "haahuss.ovpn",
     "link.md"
   ]
 }
