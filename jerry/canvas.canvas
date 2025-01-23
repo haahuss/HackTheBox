@@ -1,4 +1,15 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"2d80a04e9016b02a","x":20,"y":360,"width":400,"height":222,"type":"file","file":"jerry/attachments/Screenshot 2025-01-22 at 7.32.43 PM.png"},
+		{"id":"9b78866c71d6dcb7","x":0,"y":680,"width":400,"height":50,"type":"file","file":"jerry/attachments/Screenshot 2025-01-22 at 7.32.14 PM.png"},
+		{"id":"11527fdbcfcce08d","x":20,"y":820,"width":400,"height":141,"type":"file","file":"jerry/attachments/Screenshot 2025-01-22 at 7.35.21 PM.png"},
+		{"id":"6bad8f04efd7a8e5","x":40,"y":1020,"width":400,"height":134,"type":"file","file":"jerry/attachments/Screenshot 2025-01-22 at 7.38.44 PM.png"},
+		{"id":"f11141672b1a60a9","x":20,"y":1260,"width":400,"height":106,"type":"file","file":"jerry/attachments/Screenshot 2025-01-22 at 7.39.49 PM.png"},
+		{"id":"142a3bdea4a75d32","x":-20,"y":-620,"width":400,"height":214,"type":"file","file":"jerry/attachments/Screenshot 2025-01-22 at 10.41.01 PM.png"},
+		{"id":"d34343cda2108df5","x":-20,"y":-320,"width":400,"height":228,"type":"file","file":"jerry/attachments/Screenshot 2025-01-22 at 10.43.14 PM.png"},
+		{"id":"3ece8f8036c5b602","x":500,"y":-294,"width":400,"height":176,"type":"file","file":"jerry/attachments/Screenshot 2025-01-22 at 10.44.12 PM.png"},
+		{"id":"fb48c43c4b9d5bed","x":20,"y":10,"width":400,"height":221,"type":"file","file":"jerry/attachments/Screenshot 2025-01-22 at 7.27.54 PM.png"},
+		{"id":"bf22389ef3f33d3c","x":-280,"y":60,"width":250,"height":60,"type":"text","text":"there is a login (ss)"}
+	],
 	"edges":[]
 }
