@@ -16,27 +16,74 @@
                 "file": "TEMPLATE/nxc scans.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nxc scans"
+              }
             }
           },
           {
-            "id": "8ded8028a482c761",
+            "id": "e0665beca311d576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATE/General Notes.md",
+                "file": "active/nmap scans.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Notes"
+              }
+            }
+          },
+          {
+            "id": "a0b726a905c5d13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "active/loot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cab4e0b898722cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "active/What to Learn....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbbf1fe2df6d4eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "active/General Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdf3e55f6537901e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "active/canvas.canvas",
+                "viewState": {
+                  "x": 200,
+                  "y": 2293.8999999999987,
+                  "zoom": -1
+                }
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,9 +103,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -73,9 +118,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -83,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -108,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cicada/netexec.md",
+                "file": "active/loot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +157,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for netexec"
+              }
             }
           },
           {
@@ -127,12 +166,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cicada/netexec.md",
+                "file": "active/loot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from netexec"
+              }
             }
           },
           {
@@ -143,9 +180,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -154,10 +189,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cicada/netexec.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of netexec"
+                "file": "active/loot.md"
+              }
             }
           }
         ]
@@ -177,20 +210,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ded8028a482c761",
+  "active": "a0b726a905c5d13e",
   "lastOpenFiles": [
+    "active/General Notes.md",
+    "active/What to Learn....md",
+    "TEMPLATE/What to Learn....md",
+    "active/loot.md",
+    "active/nmap scans.md",
     "TEMPLATE/nxc scans.md",
+    "active/canvas.canvas",
+    "active/attachments/Pasted image 20250124124213.png",
+    "active/attachments/Pasted image 20250124124212.png",
+    "active/attachments/Pasted image 20250124124159.png",
+    "active/attachments",
+    "nibbles/General Notes.md",
+    "TEMPLATE/General Notes.md",
     "TEMPLATE/loot.md",
     "escapetwo/nxc.md",
     "escapetwo/nmap scans.md",
     "escapetwo/canvas.canvas",
     "escapetwo/General Notes.md",
     "active/nxc scan.md",
-    "active/loot.md",
     "💡ToLearn-ToDo.md",
-    "active/nmap scans.md",
-    "active/canvas.canvas",
-    "active/General Notes.md",
     "active",
     "escapetwo",
     "nibbles/nmap scans.md",
@@ -202,9 +243,6 @@
     "nibbles/attachments/Screenshot 2025-01-23 at 4.05.47 PM.png",
     "nibbles/attachments/Screenshot 2025-01-23 at 4.04.50 PM.png",
     "nibbles/attachments/Screenshot 2025-01-23 at 4.04.18 PM.png",
-    "nibbles/attachments/Screenshot 2025-01-23 at 4.03.21 PM 1.png",
-    "nibbles/attachments/Screenshot 2025-01-23 at 4.03.21 PM.png",
-    "nibbles/attachments/Screenshot 2025-01-23 at 3.58.53 PM.png",
     "nibbles/attachments",
     "jerry/canvas.canvas",
     "jerry/nmap scans.md",
@@ -223,14 +261,10 @@
     "sea/canvas.canvas",
     "sea/attachments",
     "sea/General Notes.md",
-    "nibbles/General Notes.md",
     "nibbles",
-    "netmon/nmap scans.md",
-    "netmon/exploit.md",
     "netmon/canvas.canvas",
     "netmon/attachments",
     "netmon",
-    "jerry",
     "TEMPLATE/canvas.canvas"
   ]
 }
