@@ -1,7 +1,17 @@
 {
 	"nodes":[
-		{"id":"52cb6acdbf26d1af","x":0,"y":1897,"width":400,"height":198,"type":"file","file":"active/attachments/Pasted image 20250124124212.png"},
-		{"id":"ab1f42d4f82d8572","x":0,"y":1600,"width":400,"height":198,"type":"file","file":"active/attachments/Pasted image 20250124124213.png"}
+		{"id":"f1d59a692021cc8f","type":"file","file":"active/attachments/Screenshot 2025-01-24 at 4.24.48 PM.png","x":131,"y":1596,"width":400,"height":38},
+		{"id":"e8799a21495df753","type":"file","file":"active/attachments/Screenshot 2025-01-24 at 4.24.58 PM.png","x":131,"y":1420,"width":400,"height":76},
+		{"id":"ad5760f00b511667","type":"file","file":"active/attachments/Screenshot 2025-01-24 at 4.27.55 PM.png","x":131,"y":1720,"width":400,"height":133},
+		{"id":"a8eb81f7ff866273","type":"file","file":"active/attachments/Screenshot 2025-01-24 at 4.38.41 PM.png","x":131,"y":1940,"width":400,"height":155},
+		{"id":"e8b752ce58953cf2","type":"file","file":"active/attachments/Screenshot 2025-01-24 at 5.02.06 PM.png","x":131,"y":2180,"width":400,"height":163},
+		{"id":"e76fdd0f69f4433c","type":"file","file":"active/attachments/Screenshot 2025-01-24 at 5.09.15 PM.png","x":131,"y":2680,"width":400,"height":202},
+		{"id":"23251e2decc4e4c8","type":"file","file":"active/attachments/Screenshot 2025-01-24 at 5.07.05 PM.png","x":131,"y":2400,"width":400,"height":192},
+		{"id":"a730e38bf881306a","type":"file","file":"active/attachments/Screenshot 2025-01-24 at 6.25.21 PM.png","x":660,"y":1357,"width":400,"height":203},
+		{"id":"1632d78ff1d0cd09","type":"file","file":"active/attachments/Screenshot 2025-01-24 at 6.26.35 PM.png","x":1140,"y":1295,"width":400,"height":328},
+		{"id":"b8c472c32cd80a9b","type":"link","url":"https://github.com/t0thkr1s/gpp-decrypt","x":-440,"y":1415,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"5c535808784cffbd","fromNode":"f1d59a692021cc8f","fromSide":"left","toNode":"b8c472c32cd80a9b","toSide":"right"}
+	]
 }
