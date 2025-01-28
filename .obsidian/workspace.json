@@ -4,27 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "9123026f27423daa",
+        "id": "55807faf87ead23e",
         "type": "tabs",
         "children": [
           {
-            "id": "fe0513167f10b50a",
+            "id": "5b9b5b7daa90b811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "busqueda/General Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Notes"
+            }
+          },
+          {
+            "id": "4eb72c3b52dc69e9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "escapetwo/canvas.canvas",
+                "file": "busqueda/canvas.canvas",
                 "viewState": {
-                  "x": -259.9499999999996,
-                  "y": -167.10000000000025,
-                  "zoom": 0
+                  "x": -374.9866528361749,
+                  "y": 1543.4546778589508,
+                  "zoom": -1.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "canvas"
             }
+          },
+          {
+            "id": "67f6783d629a137a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "busqueda/loot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "loot"
+            }
+          },
+          {
+            "id": "ed8a92fa5b119558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "busqueda/nmap scans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nmap scans"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,26 +208,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe0513167f10b50a",
+  "active": "67f6783d629a137a",
   "lastOpenFiles": [
+    "busqueda/canvas.canvas",
+    "busqueda/attachments/Pasted image 20250128130707.png",
+    "busqueda/attachments/Pasted image 20250128125752.png",
+    "busqueda/General Notes.md",
+    "busqueda/loot.md",
+    "busqueda/nmap scans.md",
+    "I learned.md",
+    "busqueda/attachments/Pasted image 20250127215023.png",
+    "busqueda/attachments/Pasted image 20250127214924.png",
+    "busqueda/attachments/Pasted image 20250127214523.png",
+    "busqueda/attachments/Pasted image 20250127211229.png",
+    "busqueda/attachments/Pasted image 20250127205207.png",
+    "busqueda/attachments/Pasted image 20250127204835.png",
+    "busqueda/attachments",
+    "active/loot.md",
+    "busqueda/nxc scans.md",
+    "busqueda",
+    "TEMPLATE - Copy/nxc scans.md",
+    "TEMPLATE - Copy/nmap scans.md",
+    "TEMPLATE - Copy/loot.md",
+    "TEMPLATE - Copy/General Notes.md",
+    "TEMPLATE - Copy/canvas.canvas",
+    "TEMPLATE - Copy",
+    "Untitled.md",
+    "active/canvas.canvas",
+    "escapetwo/canvas.canvas",
     "I learned....md",
     "To Learn.md",
-    "active/loot.md",
     "active/What to Learn....md",
-    "active/canvas.canvas",
     "sea/Path to compromise.md",
     "active/General Notes.md",
     "active/attachments/Screenshot 2025-01-24 at 6.26.35 PM.png",
     "active/attachments/Screenshot 2025-01-24 at 6.25.21 PM.png",
-    "active/attachments/Screenshot 2025-01-24 at 5.09.15 PM.png",
-    "active/attachments/Screenshot 2025-01-24 at 5.07.05 PM.png",
-    "active/attachments/Screenshot 2025-01-24 at 5.02.06 PM.png",
-    "active/attachments/Screenshot 2025-01-24 at 4.38.41 PM.png",
-    "active/attachments/Screenshot 2025-01-24 at 4.27.55 PM.png",
-    "active/attachments/Screenshot 2025-01-24 at 4.24.58 PM.png",
-    "active/attachments/Screenshot 2025-01-24 at 4.24.48 PM.png",
     "active/nxc scan.md",
-    "active/attachments/Pasted image 20250124124213.png",
     "active/attachments",
     "TEMPLATE/What to Learn....md",
     "active/nmap scans.md",
@@ -193,33 +252,18 @@
     "TEMPLATE/loot.md",
     "escapetwo/nxc.md",
     "escapetwo/nmap scans.md",
-    "escapetwo/canvas.canvas",
     "escapetwo/General Notes.md",
     "active",
     "escapetwo",
-    "nibbles/nmap scans.md",
     "nibbles/canvas.canvas",
     "nibbles/attachments",
     "jerry/canvas.canvas",
-    "jerry/nmap scans.md",
     "jerry/attachments",
     "cicada/canvas.canvas",
-    "cicada/nmap.md",
     "cicada/attachments",
-    "cicada/netexec.md",
-    "cicada/kerbrute.md",
-    "cicada/smbclient.md",
-    "cicada/notefromhr.txt.md",
-    "cicada/enum4linux.md",
-    "cicada/notes.md",
-    "sea/nmap scans.md",
     "sea/canvas.canvas",
     "sea/attachments",
-    "sea/General Notes.md",
-    "nibbles",
     "netmon/canvas.canvas",
-    "netmon/attachments",
-    "netmon",
     "TEMPLATE/canvas.canvas"
   ]
 }

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"46ca16fd40565a91","type":"file","file":"busqueda/attachments/Pasted image 20250127204835.png","x":-540,"y":-200,"width":400,"height":52},
+		{"id":"bf487e551b68b3ee","type":"file","file":"busqueda/attachments/Pasted image 20250127205207.png","x":-540,"y":-40,"width":399,"height":262},
+		{"id":"84b2f904a72d0764","type":"text","text":"Powered by Flask and Searchor 2.4.0","x":-80,"y":91,"width":327,"height":60},
+		{"id":"37a50607ef9eb044","type":"text","text":"exploits come up after googling","x":-465,"y":300,"width":250,"height":60},
+		{"id":"76bb7deec1bd3dda","type":"file","file":"busqueda/attachments/Pasted image 20250127211229.png","x":-540,"y":600,"width":400,"height":311},
+		{"id":"570044c9fd9e5d9a","type":"text","text":"https://github.com/nikn0laty/Exploit-for-Searchor-2.4.0-Arbitrary-CMD-Injection\n","x":-940,"y":726,"width":250,"height":60},
+		{"id":"44af81504fe4db64","type":"file","file":"busqueda/attachments/Pasted image 20250127214523.png","x":-540,"y":1060,"width":399,"height":117},
+		{"id":"a9523d86b6d86117","type":"file","file":"busqueda/attachments/Pasted image 20250127214924.png","x":-540,"y":1380,"width":400,"height":157},
+		{"id":"2151ea178e5d266e","type":"file","file":"busqueda/attachments/Pasted image 20250127215023.png","x":-1080,"y":1366,"width":399,"height":186},
+		{"id":"08a43070ef4fea04","type":"text","text":"same password for svc?","x":-80,"y":1089,"width":250,"height":60},
+		{"id":"d508a2a582d24a58","x":750,"y":1169,"width":400,"height":60,"type":"file","file":"busqueda/attachments/Pasted image 20250128125752.png"},
+		{"id":"d17db9cf61768e0b","x":320,"y":1161,"width":250,"height":60,"type":"text","text":"used same cody's password"},
+		{"id":"434e8788eb693f4b","x":750,"y":989,"width":400,"height":130,"type":"file","file":"busqueda/attachments/Pasted image 20250128130707.png"}
+	],
+	"edges":[]
+}

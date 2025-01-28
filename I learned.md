@@ -7,4 +7,10 @@
 	- [ ] this is useful in listing shares and in running bloodhound ingestor!
 
 
-
+# Busqueda
+- [ ] if you find credentials or password. Use it on multiple users on multiple platforms. it could be the same person under the guise of different users.
+- [ ] use `ls -la` FFS!!!!!! (after getting shell access)
+- [ ] look for service related folders (after getting shell access)
+	- [ ] apache folders
+	- [ ] git folders
+- [ ] look at services running internally!!!!! after getting shell access
