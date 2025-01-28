@@ -10,9 +10,16 @@
 		{"id":"a9523d86b6d86117","type":"file","file":"busqueda/attachments/Pasted image 20250127214924.png","x":-540,"y":1380,"width":400,"height":157},
 		{"id":"2151ea178e5d266e","type":"file","file":"busqueda/attachments/Pasted image 20250127215023.png","x":-1080,"y":1366,"width":399,"height":186},
 		{"id":"08a43070ef4fea04","type":"text","text":"same password for svc?","x":-80,"y":1089,"width":250,"height":60},
-		{"id":"d508a2a582d24a58","x":750,"y":1169,"width":400,"height":60,"type":"file","file":"busqueda/attachments/Pasted image 20250128125752.png"},
-		{"id":"d17db9cf61768e0b","x":320,"y":1161,"width":250,"height":60,"type":"text","text":"used same cody's password"},
-		{"id":"434e8788eb693f4b","x":750,"y":989,"width":400,"height":130,"type":"file","file":"busqueda/attachments/Pasted image 20250128130707.png"}
+		{"id":"d17db9cf61768e0b","type":"text","text":"used same cody's password","x":320,"y":1161,"width":250,"height":60},
+		{"id":"cb76df72b3355964","type":"file","file":"busqueda/attachments/Pasted image 20250128145609.png","x":-540,"y":1680,"width":400,"height":139},
+		{"id":"0c14e208e885118f","type":"file","file":"busqueda/attachments/Pasted image 20250128145653.png","x":-540,"y":1900,"width":400,"height":149},
+		{"id":"4044df11fc6ffa6e","type":"file","file":"busqueda/attachments/Pasted image 20250128150826.png","x":580,"y":2049,"width":400,"height":89},
+		{"id":"ca7b5b6d8f81aad1","type":"file","file":"busqueda/attachments/Pasted image 20250128150846.png","x":580,"y":2260,"width":398,"height":67},
+		{"id":"d508a2a582d24a58","type":"file","file":"busqueda/attachments/Pasted image 20250128125752.png","x":750,"y":1480,"width":400,"height":60},
+		{"id":"71173f52cb712122","type":"file","file":"busqueda/attachments/Pasted image 20250128142202.png","x":750,"y":1751,"width":399,"height":59},
+		{"id":"69c1761b872c8a6b","type":"file","file":"busqueda/attachments/Pasted image 20250128141320.png","x":750,"y":1611,"width":400,"height":65},
+		{"id":"22e63889ad78ac5f","type":"file","file":"busqueda/attachments/Pasted image 20250128153243.png","x":750,"y":1300,"width":399,"height":115},
+		{"id":"434e8788eb693f4b","type":"file","file":"busqueda/attachments/Pasted image 20250128130707.png","x":-1000,"y":1054,"width":400,"height":130}
 	],
 	"edges":[]
 }

@@ -15,6 +15,8 @@ cat config
 svc@busqueda:/var/www/app/.git$ 
 
 ```
+gitea http cody:jh1usoih2bkjaspwe92
+ssh svc:jh1usoih2bkjaspwe92
 
 ```
     "USER_UID=115",
@@ -30,7 +32,7 @@ svc@busqueda:/var/www/app/.git$
   ],
 
 ```
-
+gitea http administrator:yuiu1hoiu4i5ho1uh
 
 
 ```

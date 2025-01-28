@@ -14,3 +14,5 @@
 	- [ ] apache folders
 	- [ ] git folders
 - [ ] look at services running internally!!!!! after getting shell access
+- [ ] Since RAM is significantly faster than disk storage, you can use `/dev/shm` instead of `/tmp` for the performance boost
+- [ ] 

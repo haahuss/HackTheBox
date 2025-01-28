@@ -4,42 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "55807faf87ead23e",
+        "id": "d0f3f92981fcf57f",
         "type": "tabs",
         "children": [
           {
-            "id": "5b9b5b7daa90b811",
+            "id": "d573000113ceedb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "busqueda/General Notes.md",
+                "file": "I learned.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Notes"
+              "title": "I learned"
             }
           },
           {
-            "id": "4eb72c3b52dc69e9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "busqueda/canvas.canvas",
-                "viewState": {
-                  "x": -374.9866528361749,
-                  "y": 1543.4546778589508,
-                  "zoom": -1.333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "canvas"
-            }
-          },
-          {
-            "id": "67f6783d629a137a",
+            "id": "3b81f7b7bacfdea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +36,24 @@
             }
           },
           {
-            "id": "ed8a92fa5b119558",
+            "id": "a2200922f84558fe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "busqueda/canvas.canvas",
+                "viewState": {
+                  "x": 707.487482821782,
+                  "y": 2178.089790852837,
+                  "zoom": 0.8466666666666673
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "canvas"
+            }
+          },
+          {
+            "id": "ea129055d19e46c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,41 +208,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67f6783d629a137a",
+  "active": "a2200922f84558fe",
   "lastOpenFiles": [
-    "busqueda/canvas.canvas",
-    "busqueda/attachments/Pasted image 20250128130707.png",
-    "busqueda/attachments/Pasted image 20250128125752.png",
-    "busqueda/General Notes.md",
     "busqueda/loot.md",
+    "busqueda/canvas.canvas",
     "busqueda/nmap scans.md",
+    "busqueda/attachments/Pasted image 20250128153243.png",
+    "busqueda/attachments/Pasted image 20250128150846.png",
+    "busqueda/attachments/Pasted image 20250128150826.png",
     "I learned.md",
-    "busqueda/attachments/Pasted image 20250127215023.png",
-    "busqueda/attachments/Pasted image 20250127214924.png",
-    "busqueda/attachments/Pasted image 20250127214523.png",
-    "busqueda/attachments/Pasted image 20250127211229.png",
-    "busqueda/attachments/Pasted image 20250127205207.png",
-    "busqueda/attachments/Pasted image 20250127204835.png",
-    "busqueda/attachments",
-    "active/loot.md",
-    "busqueda/nxc scans.md",
-    "busqueda",
-    "TEMPLATE - Copy/nxc scans.md",
-    "TEMPLATE - Copy/nmap scans.md",
-    "TEMPLATE - Copy/loot.md",
-    "TEMPLATE - Copy/General Notes.md",
-    "TEMPLATE - Copy/canvas.canvas",
-    "TEMPLATE - Copy",
-    "Untitled.md",
-    "active/canvas.canvas",
+    "busqueda/attachments/Pasted image 20250128145653.png",
+    "busqueda/attachments/Pasted image 20250128145609.png",
+    "busqueda/attachments/Pasted image 20250128144612.png",
+    "busqueda/attachments/Pasted image 20250128144554.png",
+    "busqueda/attachments/Pasted image 20250128142331.png",
+    "busqueda/attachments/Pasted image 20250128142202.png",
+    "busqueda/attachments/Pasted image 20250128141320.png",
     "escapetwo/canvas.canvas",
+    "busqueda/nxc scans.md",
+    "busqueda/attachments",
+    "busqueda/General Notes.md",
+    "busqueda",
     "I learned....md",
     "To Learn.md",
+    "active/loot.md",
     "active/What to Learn....md",
+    "active/canvas.canvas",
     "sea/Path to compromise.md",
     "active/General Notes.md",
-    "active/attachments/Screenshot 2025-01-24 at 6.26.35 PM.png",
-    "active/attachments/Screenshot 2025-01-24 at 6.25.21 PM.png",
     "active/nxc scan.md",
     "active/attachments",
     "TEMPLATE/What to Learn....md",
@@ -255,14 +248,20 @@
     "escapetwo/General Notes.md",
     "active",
     "escapetwo",
+    "nibbles/nmap scans.md",
     "nibbles/canvas.canvas",
     "nibbles/attachments",
     "jerry/canvas.canvas",
+    "jerry/nmap scans.md",
     "jerry/attachments",
     "cicada/canvas.canvas",
+    "cicada/nmap.md",
     "cicada/attachments",
+    "cicada/netexec.md",
+    "cicada/kerbrute.md",
     "sea/canvas.canvas",
     "sea/attachments",
+    "nibbles",
     "netmon/canvas.canvas",
     "TEMPLATE/canvas.canvas"
   ]
