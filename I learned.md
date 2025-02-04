@@ -17,3 +17,4 @@
 
 # ServMon
 - [ ] use searchsploit on every service you find!
+- [ ] use `https://` for https ports man!! come on 

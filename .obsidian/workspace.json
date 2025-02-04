@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5126bba9e59d0d05",
+        "id": "a3e1289e3cd2008c",
         "type": "tabs",
         "children": [
           {
-            "id": "e6f9a19f29e32835",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "servmon/canvas.canvas",
-                "viewState": {
-                  "x": -263.57108107765106,
-                  "y": 1970.5948117038586,
-                  "zoom": -2.0966666666666667
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "canvas"
-            }
-          },
-          {
-            "id": "748d0dedcb88e125",
+            "id": "729b7703d84c96ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "servmon/nmap scans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nmap scans"
-            }
-          },
-          {
-            "id": "5c9a978dc6686636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "servmon/General Notes.md",
+                "file": "administrator/General Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,20 +22,66 @@
             }
           },
           {
-            "id": "87ad8535ed2a8b47",
+            "id": "66851348559bdd43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "servmon/loot.md",
+                "file": "administrator/nmap scans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nmap scans"
+            }
+          },
+          {
+            "id": "96d99527c725eb93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "administrator/nxc scans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nxc scans"
+            }
+          },
+          {
+            "id": "fb889c741aebf2c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "administrator/loot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "loot"
             }
+          },
+          {
+            "id": "3249e08c9270b994",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "administrator/canvas.canvas",
+                "viewState": {
+                  "x": 184.3775678608747,
+                  "y": 2527.5800123259846,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "canvas"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -207,23 +223,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6f9a19f29e32835",
+  "active": "3249e08c9270b994",
   "lastOpenFiles": [
-    "servmon/attachments/Pasted image 20250130160446.png",
-    "servmon/attachments/Pasted image 20250130160426.png",
-    "servmon/attachments/Pasted image 20250130160350.png",
-    "servmon/attachments/Pasted image 20250130160053.png",
-    "servmon/attachments/Pasted image 20250130160002.png",
-    "servmon/loot.md",
+    "administrator/attachments/Pasted image 20250203221511.png",
+    "administrator/attachments/Pasted image 20250203220540.png",
+    "administrator/loot.md",
+    "administrator/canvas.canvas",
+    "administrator/attachments/Pasted image 20250203215942.png",
+    "administrator/attachments/Pasted image 20250203215435.png",
+    "administrator/attachments/Pasted image 20250203214708.png",
+    "administrator/attachments/Pasted image 20250203211412.png",
+    "administrator/General Notes.md",
+    "administrator/attachments/Pasted image 20250203195554.png",
+    "administrator/attachments/Pasted image 20250203175834.png",
+    "administrator/attachments/Pasted image 20250203175754.png",
+    "administrator/attachments/Pasted image 20250203175633.png",
+    "administrator/attachments/Pasted image 20250203175612.png",
+    "administrator/attachments",
     "servmon/canvas.canvas",
-    "servmon/attachments/Pasted image 20250129175057.png",
-    "servmon/attachments/Pasted image 20250129174834.png",
-    "servmon/attachments/Pasted image 20250129174813.png",
-    "servmon/attachments/Pasted image 20250129172724.png",
-    "servmon/attachments/Pasted image 20250129172007.png",
-    "servmon/attachments/Pasted image 20250129165052.png",
-    "servmon/nmap scans.md",
+    "administrator/nxc scans.md",
+    "administrator/nmap scans.md",
+    "escapetwo/canvas.canvas",
+    "TEMPLATE/nxc scans.md",
+    "I learned.md",
+    "administrator",
+    "TEMPLATE - Copy/nxc scans.md",
+    "TEMPLATE - Copy/nmap scans.md",
+    "TEMPLATE - Copy/loot.md",
+    "TEMPLATE - Copy/General Notes.md",
+    "TEMPLATE - Copy/canvas.canvas",
+    "TEMPLATE - Copy",
+    "servmon/loot.md",
     "servmon/General Notes.md",
+    "servmon/nmap scans.md",
     "servomn/attachments/Pasted image 20250128174104.png.md",
     "servomn/attachments/Pasted image 20250128173539.png 1.md",
     "servomn/attachments/Pasted image 20250128173539.png.md",
@@ -233,7 +265,6 @@
     "escapetwo/nxc.md",
     "escapetwo/nmap scans.md",
     "escapetwo/General Notes.md",
-    "I learned.md",
     "servmon/attachments",
     "servmon",
     "servomn/loot.md",
@@ -243,27 +274,12 @@
     "servomn/General Notes.md",
     "busqueda/loot.md",
     "busqueda/canvas.canvas",
-    "busqueda/nmap scans.md",
-    "escapetwo/canvas.canvas",
-    "busqueda/nxc scans.md",
     "busqueda/attachments",
-    "busqueda/General Notes.md",
     "busqueda",
-    "I learned....md",
-    "To Learn.md",
-    "active/loot.md",
-    "active/What to Learn....md",
     "active/canvas.canvas",
-    "sea/Path to compromise.md",
-    "active/General Notes.md",
     "active/attachments",
-    "active",
-    "escapetwo",
     "nibbles/canvas.canvas",
-    "nibbles/attachments",
     "jerry/canvas.canvas",
-    "cicada/canvas.canvas",
-    "sea/canvas.canvas",
-    "netmon/canvas.canvas"
+    "cicada/canvas.canvas"
   ]
 }
