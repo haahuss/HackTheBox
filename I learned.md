@@ -33,3 +33,7 @@
 - [ ] asreproast is an enum tactic to find users with pre-auth disabled
 	- [ ] this can lead to dumping a hash and cracking it!!
 - [ ] look at LDAP protocol in the nxc docs when dealing with LDAP
+
+# 🟨 Solidstate
+- [ ] always google all the services running
+- [ ] 
