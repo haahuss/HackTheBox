@@ -15,9 +15,9 @@
               "state": {
                 "file": "forest/canvas.canvas",
                 "viewState": {
-                  "x": 1948.283196191543,
-                  "y": 200.74593273460653,
-                  "zoom": -0.6666666666666667
+                  "x": 1771.3095881410745,
+                  "y": 2418.1720109053786,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -94,8 +94,7 @@
               "title": "nxc scans"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,13 +236,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0cecfd98467f760",
+  "active": "fb4218ade8868296",
   "lastOpenFiles": [
+    "forest/nxc scans.md",
     "forest/canvas.canvas",
     "I learned.md",
-    "forest/nxc scans.md",
-    "forest/nmap scans.md",
     "forest/General Notes.md",
+    "forest/nmap scans.md",
     "forest/loot.md",
     "forest/attachments/Pasted image 20250204213729.png",
     "forest/attachments/Pasted image 20250204213517.png",

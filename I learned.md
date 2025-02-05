@@ -28,7 +28,8 @@
 	- [ ] use (Evil-)WinRM for normal users
 
 # 🟩 Forest
+- [ ] msrpc service hints using rpcclient
 - [ ] use rpcclient to enumerate when port 445 is open
 - [ ] asreproast is an enum tactic to find users with pre-auth disabled
 	- [ ] this can lead to dumping a hash and cracking it!!
-- [ ] 
+- [ ] look at LDAP protocol in the nxc docs when dealing with LDAP
