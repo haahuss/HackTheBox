@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,8 +223,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e228a1697215bb6",
+  "active": "c85a5afd622203cb",
   "lastOpenFiles": [
+    "chatterbox/canvas.canvas",
     "chatterbox/attachments/Pasted image 20250206213019.png",
     "chatterbox/attachments",
     "chatterbox/nxc scans.md",
@@ -232,7 +233,6 @@
     "solidstate/General Notes.md",
     "administrator/General Notes.md",
     "forest/General Notes.md",
-    "chatterbox/canvas.canvas",
     "chatterbox/nmap scans.md",
     "chatterbox/loot.md",
     "administrator/loot.md",
@@ -257,7 +257,6 @@
     "forest/loot.md",
     "solidstate/attachments/Pasted image 20250205153038.png",
     "solidstate/attachments/Pasted image 20250205152107.png",
-    "solidstate/attachments/Pasted image 20250205152004.png",
     "solidstate/attachments",
     "solidstate",
     "forest/attachments",
