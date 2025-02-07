@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"902743bbe72b147a","type":"file","file":"administrator/attachments/Pasted image 20250203172832.png","x":-300,"y":0,"width":397,"height":54},
 		{"id":"d6f2491b2370660b","type":"file","file":"administrator/attachments/Pasted image 20250203172842.png","x":-300,"y":-160,"width":400,"height":94},
-		{"id":"e71ad63cbb694f2f","type":"file","file":"administrator/attachments/Pasted image 20250203172927.png","x":-300,"y":-660,"width":400,"height":156},
+		{"id":"e71ad63cbb694f2f","type":"file","file":"administrator/attachments/Pasted image 20250203172927.png","x":-300,"y":-880,"width":966,"height":376},
 		{"id":"49024e8e4326debd","type":"file","file":"administrator/attachments/Pasted image 20250203173052.png","x":-300,"y":-460,"width":400,"height":260},
 		{"id":"3ecbc04cc26af53a","type":"file","file":"administrator/attachments/Pasted image 20250203173151.png","x":280,"y":54,"width":400,"height":284},
 		{"id":"14eec14682285763","type":"text","text":"change password of michael","x":-673,"y":-321,"width":250,"height":60},
@@ -16,7 +16,7 @@
 		{"id":"e54e823af2009737","type":"text","text":"double click to copy password!","x":-460,"y":1683,"width":415,"height":60},
 		{"id":"b4291b84963e23ea","type":"file","file":"administrator/attachments/Pasted image 20250203211412.png","x":0,"y":1960,"width":400,"height":140},
 		{"id":"dddd2597e1340885","type":"file","file":"administrator/attachments/Pasted image 20250203215435.png","x":0,"y":2440,"width":399,"height":132},
-		{"id":"207b8e043026c581","type":"file","file":"administrator/attachments/Pasted image 20250203215942.png","x":0,"y":2660,"width":399,"height":248},
+		{"id":"207b8e043026c581","type":"file","file":"administrator/attachments/Pasted image 20250203215942.png","x":0,"y":2660,"width":480,"height":298},
 		{"id":"6f54fe5bc1cd21c0","type":"file","file":"administrator/attachments/Pasted image 20250203220540.png","x":0,"y":3000,"width":400,"height":202},
 		{"id":"d1d6c71f15bc0614","type":"file","file":"administrator/attachments/Pasted image 20250203221511.png","x":0,"y":3280,"width":399,"height":218},
 		{"id":"6acbe1b9c930b1cf","type":"file","file":"administrator/attachments/Pasted image 20250204001811.png","x":0,"y":2200,"width":399,"height":79}

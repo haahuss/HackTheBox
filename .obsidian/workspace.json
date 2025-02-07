@@ -4,33 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc7a9ce9f401d7ee",
+        "id": "90c7f17f98a7ec54",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3931ae638e92c2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "solidstate/canvas.canvas",
-                "viewState": {
-                  "x": -82.7700000000002,
-                  "y": 1315.0199999999998,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "canvas"
-            }
-          },
-          {
-            "id": "069d468bf5a01b0d",
+            "id": "68359abf7e84b095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solidstate/General Notes.md",
+                "file": "chatterbox/General Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,12 +22,29 @@
             }
           },
           {
-            "id": "0dea5207dcf32074",
+            "id": "7e228a1697215bb6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "chatterbox/canvas.canvas",
+                "viewState": {
+                  "x": -286.39990234375,
+                  "y": -121.60000610351562,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "canvas"
+            }
+          },
+          {
+            "id": "c85a5afd622203cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solidstate/nmap scans.md",
+                "file": "chatterbox/nmap scans.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,12 +53,26 @@
             }
           },
           {
-            "id": "e478960f5ff5a49c",
+            "id": "dcb94fdc00a158d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solidstate/loot.md",
+                "file": "chatterbox/nxc scans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nxc scans"
+            }
+          },
+          {
+            "id": "ba5b0d5eb99a9d3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chatterbox/loot.md",
                 "mode": "source",
                 "source": false
               },
@@ -67,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,36 +223,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e478960f5ff5a49c",
+  "active": "7e228a1697215bb6",
   "lastOpenFiles": [
-    "solidstate/canvas.canvas",
-    "solidstate/attachments/Pasted image 20250205153038.png",
-    "solidstate/loot.md",
-    "solidstate/attachments/Pasted image 20250205152107.png",
-    "solidstate/attachments/Pasted image 20250205152004.png",
-    "solidstate/attachments/Pasted image 20250205151954.png",
-    "solidstate/attachments/Pasted image 20250205151934.png",
-    "solidstate/attachments/Pasted image 20250205151917.png",
-    "solidstate/attachments/Pasted image 20250205150016.png",
-    "I learned.md",
-    "solidstate/attachments/Pasted image 20250205144306.png",
-    "solidstate/attachments",
-    "solidstate/nmap scans.md",
+    "chatterbox/attachments/Pasted image 20250206213019.png",
+    "chatterbox/attachments",
+    "chatterbox/nxc scans.md",
+    "chatterbox/General Notes.md",
     "solidstate/General Notes.md",
-    "solidstate/nxc scans.md",
-    "solidstate",
-    "forest/nxc scans.md",
-    "forest/canvas.canvas",
+    "administrator/General Notes.md",
     "forest/General Notes.md",
+    "chatterbox/canvas.canvas",
+    "chatterbox/nmap scans.md",
+    "chatterbox/loot.md",
+    "administrator/loot.md",
+    "administrator/nmap scans.md",
+    "administrator/nxc scans.md",
+    "administrator/canvas.canvas",
+    "solidstate/canvas.canvas",
+    "solidstate/loot.md",
+    "solidstate/nmap scans.md",
+    "solidstate/attachments/Pasted image 20250205234834.png",
+    "solidstate/attachments/Pasted image 20250205234721.png",
+    "forest/canvas.canvas",
+    "I learned.md",
+    "solidstate/attachments/Pasted image 20250205204420.png",
+    "solidstate/attachments/Pasted image 20250205204118.png",
+    "solidstate/attachments/Pasted image 20250205203140.png",
+    "solidstate/attachments/Pasted image 20250205200940.png",
+    "solidstate/attachments/Pasted image 20250205200921.png",
+    "solidstate/nxc scans.md",
+    "forest/nxc scans.md",
     "forest/nmap scans.md",
     "forest/loot.md",
-    "forest/attachments/Pasted image 20250204213729.png",
-    "forest/attachments/Pasted image 20250204213517.png",
+    "solidstate/attachments/Pasted image 20250205153038.png",
+    "solidstate/attachments/Pasted image 20250205152107.png",
+    "solidstate/attachments/Pasted image 20250205152004.png",
+    "solidstate/attachments",
+    "solidstate",
     "forest/attachments",
-    "administrator/loot.md",
-    "administrator/nxc scans.md",
-    "administrator/nmap scans.md",
-    "administrator/canvas.canvas",
     "forest",
     "TEMPLATE - Copy/nxc scans.md",
     "TEMPLATE - Copy/nmap scans.md",
@@ -246,7 +268,6 @@
     "TEMPLATE - Copy/General Notes.md",
     "TEMPLATE - Copy/canvas.canvas",
     "TEMPLATE - Copy",
-    "administrator/General Notes.md",
     "administrator/attachments",
     "servmon/canvas.canvas",
     "escapetwo/canvas.canvas",
@@ -255,16 +276,10 @@
     "servmon/loot.md",
     "servmon/General Notes.md",
     "servmon/nmap scans.md",
-    "servomn/attachments/Pasted image 20250128174104.png.md",
-    "servomn/attachments/Pasted image 20250128173539.png 1.md",
-    "servomn/attachments/Pasted image 20250128173539.png.md",
     "servomn/attachments",
     "servomn",
-    "servmon/nxc scans.md",
-    "servmon/attachments",
     "servomn/canvas.canvas",
     "busqueda/canvas.canvas",
-    "active/canvas.canvas",
-    "nibbles/canvas.canvas"
+    "active/canvas.canvas"
   ]
 }
