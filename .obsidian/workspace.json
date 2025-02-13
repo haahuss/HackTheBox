@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "627518bf72e16569",
+        "id": "1fc128289daa5525",
         "type": "tabs",
         "children": [
           {
-            "id": "5b1d9c60d0487d95",
+            "id": "0f144649e0cbb133",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "chatterbox/canvas.canvas",
+                "file": "poison/canvas.canvas",
                 "viewState": {
-                  "x": 1230.3100000000006,
-                  "y": 720.0870312499998,
-                  "zoom": 0
+                  "x": 198.91319185332964,
+                  "y": 756.7815251722119,
+                  "zoom": -0.013333333333333343
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "ec63b90e8580224a",
+            "id": "ef8fcd81bf229fd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chatterbox/General Notes.md",
+                "file": "poison/General Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,26 +39,12 @@
             }
           },
           {
-            "id": "549002ce6efc8dcc",
+            "id": "16089bd56b80fe92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chatterbox/loot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "loot"
-            }
-          },
-          {
-            "id": "241cf4dc28b7dee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chatterbox/nmap scans.md",
+                "file": "poison/nmap scans.md",
                 "mode": "source",
                 "source": false
               },
@@ -67,12 +53,26 @@
             }
           },
           {
-            "id": "3b625225e3009cd8",
+            "id": "2c016d29a51a3cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chatterbox/nxc scans.md",
+                "file": "poison/loot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "loot"
+            }
+          },
+          {
+            "id": "2d3108711b21336e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "poison/nxc scans.md",
                 "mode": "source",
                 "source": false
               },
@@ -222,25 +222,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b1d9c60d0487d95",
+  "active": "0f144649e0cbb133",
   "lastOpenFiles": [
-    "chatterbox/attachments/Pasted image 20250207160642.png",
+    "poison/attachments/Pasted image 20250213134437.png",
+    "poison/loot.md",
+    "poison/General Notes.md",
+    "poison/nmap scans.md",
+    "poison/canvas.canvas",
+    "poison/attachments/Pasted image 20250212151157.png",
+    "poison/attachments/Pasted image 20250212151101.png",
+    "poison/attachments/Pasted image 20250212151025.png",
+    "poison/attachments/Pasted image 20250212145651.png",
+    "poison/attachments/Pasted image 20250212145442.png",
+    "poison/attachments/Pasted image 20250212144916.png",
+    "poison/attachments/Pasted image 20250212144814.png",
+    "poison/attachments/Pasted image 20250212143604.png",
+    "poison/attachments/Pasted image 20250212143547.png",
+    "poison/attachments/Pasted image 20250212143506.png",
+    "poison/attachments",
+    "poison/nxc scans.md",
+    "chatterbox/canvas.canvas",
+    "poison",
     "chatterbox/loot.md",
     "chatterbox/General Notes.md",
-    "chatterbox/canvas.canvas",
-    "chatterbox/attachments/Pasted image 20250207154612.png",
-    "chatterbox/attachments/Pasted image 20250207154336.png",
-    "chatterbox/attachments/Pasted image 20250207152907.png",
-    "chatterbox/attachments/Pasted image 20250207152408.png",
     "chatterbox/nmap scans.md",
     "chatterbox/nxc scans.md",
     "solidstate/loot.md",
-    "solidstate/attachments/Pasted image 20250205234834.png",
-    "solidstate/attachments/Pasted image 20250205234721.png",
-    "solidstate/attachments/Pasted image 20250205204420.png",
-    "solidstate/attachments/Pasted image 20250205204118.png",
-    "solidstate/attachments/Pasted image 20250205203140.png",
-    "solidstate/attachments/Pasted image 20250205200940.png",
     "chatterbox/attachments",
     "chatterbox",
     "solidstate/canvas.canvas",
@@ -271,14 +278,7 @@
     "administrator/attachments",
     "servmon/canvas.canvas",
     "escapetwo/canvas.canvas",
-    "TEMPLATE/nxc scans.md",
-    "administrator",
-    "servmon/loot.md",
-    "servmon/General Notes.md",
-    "servmon/nmap scans.md",
-    "servomn/attachments",
     "servomn/canvas.canvas",
-    "busqueda/canvas.canvas",
-    "active/canvas.canvas"
+    "busqueda/canvas.canvas"
   ]
 }
