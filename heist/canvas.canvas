@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"d802e0b0e9acac99","type":"file","file":"heist/attachments/Pasted image 20250220163555.png","x":-180,"y":-120,"width":646,"height":373},
+		{"id":"f0b9572b85544889","type":"file","file":"heist/attachments/Pasted image 20250220164019.png","x":-180,"y":397,"width":646,"height":354},
+		{"id":"371766a8bba9c170","type":"file","file":"heist/attachments/Pasted image 20250220164055.png","x":-180,"y":881,"width":646,"height":363},
+		{"id":"9d6072c6548122ab","type":"text","text":"cracked the hash \n$1$pdQG$o8nrSzsGXeaduXrjlvKc91:stealth1agent\n\n\n\n`└─$ hashcat -m 500 config_hash /usr/share/wordlists/rockyou.txt`\n","x":500,"y":1444,"width":709,"height":211},
+		{"id":"7dd58c9d2fa6c6bd","type":"file","file":"heist/attachments/Pasted image 20250220165350.png","x":-180,"y":1351,"width":646,"height":399},
+		{"id":"7835f16acfbf6ddc","type":"file","file":"heist/attachments/Pasted image 20250220170117.png","x":-180,"y":2043,"width":646,"height":326},
+		{"id":"eeaaf2f4c11eb4ff","type":"file","file":"heist/attachments/Pasted image 20250220171404.png","x":1402,"y":1302,"width":646,"height":496},
+		{"id":"ddb9f2963e2c515a","type":"file","file":"heist/attachments/Pasted image 20250220171625.png","x":-180,"y":1850,"width":646,"height":92},
+		{"id":"417f6999537ba3ef","type":"file","file":"heist/attachments/Pasted image 20250220171711.png","x":-180,"y":2463,"width":646,"height":210},
+		{"id":"b4804ae6acaa4a98","type":"file","file":"heist/attachments/Pasted image 20250220171908.png","x":2145,"y":1310,"width":646,"height":481},
+		{"id":"2812d276dc9abcd8","type":"text","text":"https://media.defense.gov/2022/Feb/17/2002940795/-1/-1/1/CSI_CISCO_PASSWORD_TYPES_BEST_PRACTICES_20220217.PDF\n\nhttps://ccnax.com/cisco-type-7-password-decryption/\n","x":2887,"y":1448,"width":953,"height":207},
+		{"id":"c2c658e880a972f2","type":"file","file":"heist/attachments/Pasted image 20250220172038.png","x":-180,"y":2754,"width":646,"height":174},
+		{"id":"e33f1c1f68d8219c","type":"file","file":"heist/attachments/Pasted image 20250220202526.png","x":-180,"y":3012,"width":646,"height":208},
+		{"id":"93060cc84e1458da","type":"file","file":"heist/attachments/Pasted image 20250220203129.png","x":-180,"y":3303,"width":646,"height":378},
+		{"id":"2c3f3a15ac0580d5","type":"file","file":"heist/attachments/Pasted image 20250220205847.png","x":-180,"y":4480,"width":646,"height":170},
+		{"id":"d6a46d4e450b099b","type":"file","file":"heist/attachments/Pasted image 20250220210109.png","x":-180,"y":4770,"width":646,"height":100},
+		{"id":"7a522c63850f72d6","type":"file","file":"heist/attachments/Pasted image 20250220210155.png","x":-180,"y":4964,"width":646,"height":256},
+		{"id":"ca7455ad5f19a1d9","type":"file","file":"heist/attachments/Pasted image 20250221214712.png","x":-180,"y":4080,"width":646,"height":106},
+		{"id":"d41bd6a07ebf94af","type":"file","file":"heist/attachments/Pasted image 20250220211535.png","x":-180,"y":3740,"width":646,"height":276}
+	],
+	"edges":[]
+}

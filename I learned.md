@@ -40,3 +40,39 @@
 # 🟨 Solidstate
 - [ ] always google and understand all the services running
 - [ ] use pspy to see what's running in the background
+
+# 🟦 Chatterbox
+
+
+
+
+# 🟨 Poison
+- [ ] use ps auxw
+- [ ] use netstat -an on freebsd
+
+
+
+# 🟩 Escape
+- [ ] what is smb/ntlm relay attack
+- [ ] xp_dirtree can be used to do an smb/ntlm relay attack
+- [ ] impacket's responder AND smbserver can both be used to grab NTLM hash
+- [ ] check out the logs of running services after getting access
+- [ ] when SSL/LDAP (3269) is open, test for Certificate services
+	- [ ] it's most likely a CA.
+
+# 🟨 Jarvis
+- [ ] use special chars fuzzing to find sql injection
+- [ ] what is information schema
+- [ ] using `limit` in sql injection to get information
+- [ ] `group_concat` used to print multiple lines in sql injection
+- [ ] `LOAD_FILE()` function to read files
+- [ ] try switching up single/double quotations
+- [ ] write files using SQLi (see INTO OUTFILE )
+- [ ] `systemctl` doesn't like the `/tmp` directory
+- [ ] command injection with `$(COMAMND)`
+
+# 🟦 Heist
+- [ ] if you come accross a cisco config file, check the password types
+- [ ] manually enumerate the User's directories 
+- [ ] how rpcclient does RID bruteforcing
+- [ ] 

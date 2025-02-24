@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"55251fb5808c30eb","type":"text","text":"nxc to find sequel.htb","x":-389,"y":-221,"width":569,"height":60},
+		{"id":"095a473132d90410","type":"text","text":"log in to database","x":-424,"y":480,"width":250,"height":60},
+		{"id":"fb411be0005daa3d","type":"text","text":"grab hash using xp_dirtree","x":-481,"y":900,"width":307,"height":60},
+		{"id":"889af9d98e026443","type":"file","file":"escape/attachments/Pasted image 20250213213206.png","x":-80,"y":900,"width":579,"height":380},
+		{"id":"efdf581c57f78eac","type":"file","file":"escape/attachments/Pasted image 20250213213646.png","x":-94,"y":1360,"width":593,"height":340},
+		{"id":"0523d720cb2bc8e3","type":"text","text":"└─$ hashcat -m 5600 sql_svc-hash /usr/share/wordlists/rockyou.txt\n","x":-733,"y":1481,"width":573,"height":79},
+		{"id":"32c696d99f820405","type":"file","file":"escape/attachments/Pasted image 20250213215312.png","x":1040,"y":900,"width":540,"height":370},
+		{"id":"eda2e5889eade535","type":"text","text":"port 3269 is ssl \nhttps[:]//sequel.htb:3269","x":720,"y":900,"width":285,"height":60},
+		{"id":"cfbb20dd4e4ac505","type":"text","text":"ryan password found","x":294,"y":2016,"width":250,"height":60},
+		{"id":"cc623f7833076ffb","type":"file","file":"escape/attachments/Pasted image 20250213221327.png","x":640,"y":2016,"width":400,"height":247},
+		{"id":"f1109f7ae5f23a58","type":"file","file":"escape/attachments/Pasted image 20250213222557.png","x":640,"y":2380,"width":400,"height":81},
+		{"id":"19dad1768b93efce","type":"file","file":"escape/attachments/Pasted image 20250214171914.png","x":540,"y":2640,"width":745,"height":200},
+		{"id":"4d88dd2ad45ad751","type":"text","text":"find vuln ad cs templates","x":220,"y":2720,"width":280,"height":67},
+		{"id":"9d2263fb2add4a4f","type":"file","file":"escape/attachments/Pasted image 20250214172418.png","x":633,"y":2920,"width":560,"height":312},
+		{"id":"a8e3c3e2217b06e4","type":"file","file":"escape/attachments/Pasted image 20250214173520.png","x":580,"y":3300,"width":667,"height":140},
+		{"id":"0d4f4d69a47465c6","type":"file","file":"escape/attachments/Pasted image 20250214173837.png","x":580,"y":3520,"width":667,"height":192},
+		{"id":"d03d98cf27807770","type":"file","file":"escape/attachments/Pasted image 20250214174656.png","x":580,"y":3820,"width":667,"height":355},
+		{"id":"b483aa331eff1362","type":"text","text":"anon smbclient to find list of shares","x":-424,"y":-60,"width":250,"height":60},
+		{"id":"2c7207eb7f17273b","type":"text","text":"PublicUser can view database","x":-424,"y":180,"width":250,"height":60},
+		{"id":"0602efe6192c213d","type":"file","file":"escape/attachments/Pasted image 20250214181712.png","x":-40,"y":180,"width":878,"height":160},
+		{"id":"b70915c19a2aa42a","type":"file","file":"escape/attachments/Pasted image 20250214181738.png","x":-40,"y":400,"width":720,"height":394},
+		{"id":"e007dfbdeb59b5b0","type":"file","file":"escape/attachments/Pasted image 20250214182700.png","x":640,"y":1780,"width":400,"height":156},
+		{"id":"44e7e1e18fdd65b0","type":"text","text":"shell as sql_svc","x":294,"y":1828,"width":250,"height":60},
+		{"id":"6ca62071505b43a0","type":"file","file":"escape/attachments/Pasted image 20250214181222.png","x":516,"y":-240,"width":506,"height":59},
+		{"id":"ebde6079f64fbd89","type":"file","file":"escape/attachments/Pasted image 20250214181313.png","x":-40,"y":-76,"width":505,"height":138},
+		{"id":"d81b4e8fcffb1a48","type":"file","file":"escape/attachments/Pasted image 20250214181625.png","x":567,"y":-76,"width":505,"height":152}
+	],
+	"edges":[]
+}
