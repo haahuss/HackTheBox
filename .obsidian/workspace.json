@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8201cde4afe93266",
+        "id": "734092730e416efb",
         "type": "tabs",
         "children": [
           {
-            "id": "1b023e11a29e6429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I learned.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I learned"
-            }
-          },
-          {
-            "id": "32d7a818afbfe795",
+            "id": "19b710a746e6c727",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "heist/canvas.canvas",
+                "file": "escapetwo/canvas.canvas",
                 "viewState": {
-                  "x": 211,
-                  "y": 5065,
+                  "x": -282,
+                  "y": -58.5,
                   "zoom": 0
                 }
               },
@@ -39,12 +25,12 @@
             }
           },
           {
-            "id": "fc9ba3527a5ffe21",
+            "id": "8947099cefdfdcbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heist/General Notes.md",
+                "file": "escapetwo/General Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,12 +39,26 @@
             }
           },
           {
-            "id": "cac3274908ca97aa",
+            "id": "75708b676cb9d7e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heist/nmap scans.md",
+                "file": "escapetwo/loot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "loot"
+            }
+          },
+          {
+            "id": "3088686919b89001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "escapetwo/nmap scans.md",
                 "mode": "source",
                 "source": false
               },
@@ -67,35 +67,21 @@
             }
           },
           {
-            "id": "4b3cd46c7d01f834",
+            "id": "47e150e32d315d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heist/nxc scans.md",
+                "file": "TEMPLATE/nmap scans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nxc scans"
-            }
-          },
-          {
-            "id": "a8a18692a12d6d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "heist/loot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "loot"
+              "title": "nmap scans"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,63 +223,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32d7a818afbfe795",
+  "active": "47e150e32d315d7e",
   "lastOpenFiles": [
-    "heist/attachments/Pasted image 20250221214712.png",
-    "heist/General Notes.md",
-    "heist/canvas.canvas",
-    "heist/loot.md",
-    "heist/nmap scans.md",
-    "I learned.md",
-    "heist/nxc scans.md",
-    "heist/services.md",
-    "heist/attachments/Pasted image 20250220211535.png",
-    "heist/attachments/Pasted image 20250220210155.png",
-    "heist/attachments/Pasted image 20250220210109.png",
-    "heist/attachments/Pasted image 20250220205847.png",
-    "heist/attachments/Pasted image 20250220203129.png",
-    "heist/attachments/Pasted image 20250220202526.png",
-    "jarvis/canvas.canvas",
-    "heist/attachments/Pasted image 20250220172038.png",
-    "heist/attachments/Pasted image 20250220171908.png",
-    "heist/attachments/Pasted image 20250220171711.png",
-    "heist/attachments/Pasted image 20250220171625.png",
-    "heist/attachments",
-    "heist",
-    "TEMPLATE - Copy/services.md",
-    "TEMPLATE - Copy/nxc scans.md",
-    "TEMPLATE - Copy/nmap scans.md",
-    "TEMPLATE - Copy/loot.md",
-    "TEMPLATE - Copy/General Notes.md",
-    "TEMPLATE - Copy/canvas.canvas",
-    "TEMPLATE - Copy",
-    "jarvis/fuzz.md",
-    "jarvis/nmap scans.md",
-    "jarvis/General Notes.md",
-    "jarvis/loot.md",
-    "TEMPLATE/services.md",
-    "jarvis/gobuster.md",
-    "active/canvas.canvas",
-    "busqueda/canvas.canvas",
-    "jarvis/attachments",
-    "jarvis/nxc scans.md",
-    "jarvis/services.md",
-    "escapetwo/loot.md",
-    "jarvis",
     "escapetwo/nmap scans.md",
+    "heist/General Notes.md",
+    "forest/General Notes.md",
     "escapetwo/nxc.md",
+    "escapetwo/loot.md",
     "escapetwo/General Notes.md",
     "escapetwo/canvas.canvas",
-    "escape/canvas.canvas",
-    "escape/loot.md",
+    "mailing/instructions.pdf",
+    "mailing/loot.md",
+    "mailing/services.md",
+    "mailing/nxc scans.md",
+    "I learned.md",
+    "mailing/General Notes.md",
+    "mailing/canvas.canvas",
+    "mailing/nmap scans.md",
+    "mailing",
+    "certified/canvas.canvas",
+    "certified/General Notes.md",
+    "certified/nmap scans.md",
+    "certified/nxc scans.md",
+    "certified/loot.md",
+    "certified/services.md",
+    "certified",
     "escape/nmap scans.md",
-    "cicada/canvas.canvas",
+    "escape/loot.md",
+    "escape/General Notes.md",
+    "escape/canvas.canvas",
+    "poison/loot.md",
+    "poison/nmap scans.md",
+    "poison/General Notes.md",
+    "poison/canvas.canvas",
+    "Untitled.md",
+    "poison/attachments/Pasted image 20250213162630.png",
+    "poison/attachments/Pasted image 20250213162523.png",
+    "poison/attachments/Pasted image 20250213160611.png",
+    "poison/attachments/Pasted image 20250213160418.png",
+    "poison/attachments/Pasted image 20250213160357.png",
+    "poison/attachments/Pasted image 20250213154839.png",
+    "poison/attachments/Pasted image 20250213154552.png",
+    "jarvis/attachments/Pasted image 20250219181243.png",
+    "jarvis/attachments/Pasted image 20250219215722.png",
+    "jarvis/attachments/Pasted image 20250219181334.png",
+    "jarvis/services.md",
+    "jarvis/nxc scans.md",
+    "jarvis/canvas.canvas",
+    "jarvis/attachments",
+    "jarvis",
+    "heist/canvas.canvas",
+    "heist/attachments",
+    "heist",
     "escape/attachments",
     "escape",
-    "escapetwo - Copy/canvas.canvas",
-    "escapetwo - Copy",
-    "Untitled",
-    "poison/canvas.canvas",
-    "poison/attachments"
+    "poison/attachments",
+    "chatterbox/canvas.canvas",
+    "solidstate/canvas.canvas",
+    "forest/canvas.canvas"
   ]
 }

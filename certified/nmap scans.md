@@ -1,8 +1,3 @@
-# Services
-```
-
-```
-
 Find Open Ports:
 ```
 sudo nmap TARGET -p- -T5 -oA listopenports -Pn -n --disable-arp-ping
@@ -23,5 +18,3 @@ sudo nmap TARGET -p PORTS -A -oA fullscan -Pn -n --disable-arp-ping
 
 
 ```
-
-

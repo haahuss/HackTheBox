@@ -75,4 +75,6 @@
 - [ ] if you come accross a cisco config file, check the password types
 - [ ] manually enumerate the User's directories 
 - [ ] how rpcclient does RID bruteforcing
-- [ ] 
+
+# 🟦 Mailing
+- [ ] look at Program Files (x86) as well (not just Program Files)

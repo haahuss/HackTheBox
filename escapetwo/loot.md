@@ -1,6 +1,13 @@
 rose
 KxEPkKe6R8su
 
+michael
+ryan
+rose
+oscar
+sql_svc
+ca_svc
+
 
 Kerberoasted users:
 - sql_svc
