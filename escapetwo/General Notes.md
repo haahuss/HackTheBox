@@ -1,22 +1,14 @@
 
 # IP
-IP
+10.10.11.51
 
 # Hostname
-HOSTNAME
+sequel.htb
 
 # Other Notes:
-## credentials
-rose KxEPkKe6R8su
 
-```
-michael
-ryan
-oscar
-sql_svc
-rose
-ca_svc
-```
 
 # Steps to Compromise:
-1. 
+1. got credentials in smb using rose (accounting department)
+2. use `sa` user to grab sql_svc hash
+3. 

@@ -78,3 +78,9 @@
 
 # 🟦 Mailing
 - [ ] look at Program Files (x86) as well (not just Program Files)
+- [ ] use smtplib/swaks with smtp creds
+- [ ] assume someone will click a link (if email service is running)
+
+# 🟩 EscapeTwo
+- [ ] learn what an xlsx file is like if it's not opening(with the xml stuff) 
+- [ ] 

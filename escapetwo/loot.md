@@ -1,12 +1,48 @@
+# SMB creds
+```
 rose
 KxEPkKe6R8su
 
+oscar
+86LxLBMgEWaKUnBG
+
+sql_svc
+WqSZAF6CysDQbGb3
+
+ryan
+WqSZAF6CysDQbGb3
+```
+
+# MSSQL Creds
+```
+sa
+MSSQLP@ssw0rd!
+```
+
+
+# Found creds (not useful)
+```
+angela
+0fwz7Q4mSpurIt99
+
+kevin
+Md9Wlq1E5bZnVDVo
+```
+
+Users from nxc scan:
+```
+rose
 michael
 ryan
-rose
-oscar
 sql_svc
 ca_svc
+```
+
+angela
+kevin
+sa
+ruy
+
 
 
 Kerberoasted users:
