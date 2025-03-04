@@ -11,6 +11,11 @@ WqSZAF6CysDQbGb3
 
 ryan
 WqSZAF6CysDQbGb3
+
+ca_svc
+Password123
+
+'administrator@sequel.htb': aad3b435b51404eeaad3b435b51404ee:7a8d4e04986afa8ed4060f75e5a0b3ff
 ```
 
 # MSSQL Creds
