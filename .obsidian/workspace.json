@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "734092730e416efb",
+        "id": "385dea0dd307222a",
         "type": "tabs",
         "children": [
           {
-            "id": "19b710a746e6c727",
+            "id": "76024b7d21589c4b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "escapetwo/canvas.canvas",
+                "file": "certified/canvas.canvas",
                 "viewState": {
-                  "x": -264.33,
-                  "y": 19.62000000000012,
-                  "zoom": 0
+                  "x": 38.4000244140625,
+                  "y": 120.54339212688365,
+                  "zoom": -0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "8947099cefdfdcbd",
+            "id": "9a5eb6d67b76d48d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "escapetwo/General Notes.md",
+                "file": "certified/General Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,35 +39,49 @@
             }
           },
           {
-            "id": "75708b676cb9d7e7",
+            "id": "fca0742bb5ffbc1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "escapetwo/loot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "loot"
-            }
-          },
-          {
-            "id": "47e150e32d315d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "escapetwo/nmap scans.md",
+                "file": "certified/nmap scans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "nmap scans"
             }
+          },
+          {
+            "id": "4637ab3515ebbb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "certified/nxc scans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nxc scans"
+            }
+          },
+          {
+            "id": "096f5064b253c7e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "certified/loot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "loot"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,62 +223,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75708b676cb9d7e7",
+  "active": "9a5eb6d67b76d48d",
   "lastOpenFiles": [
-    "escapetwo/General Notes.md",
+    "certified/loot.md",
+    "certified/nxc scans.md",
+    "certified/nmap scans.md",
+    "TEMPLATE/nmap scans.md",
+    "certified/canvas.canvas",
+    "certified/attachments/Pasted image 20250304192622.png",
+    "certified/attachments/Pasted image 20250304192257.png",
+    "certified/attachments",
+    "certified/General Notes.md",
+    "certified/services.md",
+    "escapetwo/commands.md",
     "escapetwo/loot.md",
     "escapetwo/canvas.canvas",
-    "escape/canvas.canvas",
-    "mailing/instructions.pdf",
-    "I learned.md",
+    "escapetwo/attachments/Pasted image 20250304154548.png.~tmp",
     "escapetwo/nmap scans.md",
-    "forest/canvas.canvas",
-    "TEMPLATE/nmap scans.md",
+    "escapetwo/General Notes.md",
+    "escapetwo/attachments/Pasted image 20250304162618.png",
+    "escapetwo/attachments/Pasted image 20250304162304.png",
+    "escapetwo/attachments/Pasted image 20250304162158.png",
+    "escapetwo/attachments/Pasted image 20250304162131.png",
+    "escapetwo/attachments/Pasted image 20250304161733.png",
+    "escapetwo/attachments/Pasted image 20250304161713.png",
+    "escapetwo/attachments/Pasted image 20250304161655.png",
+    "escapetwo/attachments/Pasted image 20250304161545.png",
+    "~$accounting_2024.xlsx",
+    "accounting_2024.xlsx",
+    "escapetwo/attachments",
     "heist/General Notes.md",
     "forest/General Notes.md",
     "escapetwo/nxc.md",
+    "mailing/instructions.pdf",
     "mailing/loot.md",
     "mailing/services.md",
     "mailing/nxc scans.md",
+    "I learned.md",
     "mailing/General Notes.md",
     "mailing/canvas.canvas",
     "mailing/nmap scans.md",
     "mailing",
-    "certified/canvas.canvas",
-    "certified/General Notes.md",
-    "certified/nmap scans.md",
-    "certified/nxc scans.md",
-    "certified/loot.md",
-    "certified/services.md",
     "certified",
     "escape/nmap scans.md",
     "escape/loot.md",
     "escape/General Notes.md",
+    "escape/canvas.canvas",
     "poison/loot.md",
     "poison/nmap scans.md",
     "poison/General Notes.md",
     "poison/canvas.canvas",
-    "Untitled.md",
-    "poison/attachments/Pasted image 20250213162630.png",
-    "poison/attachments/Pasted image 20250213162523.png",
-    "poison/attachments/Pasted image 20250213160611.png",
-    "poison/attachments/Pasted image 20250213160418.png",
-    "poison/attachments/Pasted image 20250213160357.png",
-    "poison/attachments/Pasted image 20250213154839.png",
-    "poison/attachments/Pasted image 20250213154552.png",
-    "jarvis/attachments/Pasted image 20250219181243.png",
-    "jarvis/attachments/Pasted image 20250219215722.png",
-    "jarvis/attachments/Pasted image 20250219181334.png",
     "jarvis/canvas.canvas",
     "jarvis/attachments",
     "jarvis",
     "heist/canvas.canvas",
-    "heist/attachments",
-    "heist",
-    "escape/attachments",
-    "escape",
-    "poison/attachments",
     "chatterbox/canvas.canvas",
-    "solidstate/canvas.canvas"
+    "solidstate/canvas.canvas",
+    "forest/canvas.canvas"
   ]
 }
