@@ -42,14 +42,12 @@
 - [ ] use pspy to see what's running in the background
 
 # 🟦 Chatterbox
-
-
+*I HATE THIS BOX*
 
 
 # 🟨 Poison
-- [ ] use ps auxw
-- [ ] use netstat -an on freebsd
-
+- [ ] use `ps auxw`
+- [ ] use `netstat -an` on freebsd
 
 
 # 🟩 Escape
@@ -83,4 +81,22 @@
 
 # 🟩 EscapeTwo
 - [ ] learn what an xlsx file is like if it's not opening(with the xml stuff) 
+	- [ ] it's just a zipped archive of xml files
+- [ ] use xp_dirtree, xp_cmdshell in impacket-mssql
+- [ ] use nxc with all services such as mssql, smb, winrm, etc
+
+# 🟩 Certified
+- [ ] learned shadow credential attack if you have `GenericWrite` over another user
+- [ ] Gotta learn more about AD CS in depth
+	- [ ] how certipy functions work
+	- [ ] functions of pywhisker
+	- [ ] what do pfx files entail
 - [ ] 
+
+# 🟩 Sauna
+- [ ] use `username-anarchy` to create usernames (firstname lastname)
+- [ ] what is kerbrute
+- [ ] what is asreproast
+- [ ] use winPEAS.ps1 to run winpeas on a target system to get creds
+	- [ ] use winPEAS to see stored credentials because without local admin, can't run mimikatz
+
