@@ -1,3 +1,8 @@
 {
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "spellcheck": false,
+  "newFileLocation": "current"
 }

@@ -1,5 +1,7 @@
 {
   "cssTheme": "Things",
   "accentColor": "#75e190",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSizeAction": true
 }
