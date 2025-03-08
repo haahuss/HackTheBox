@@ -4,5 +4,7 @@
   "showLineNumber": false,
   "strictLineBreaks": false,
   "spellcheck": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "focusNewTab": true,
+  "showInlineTitle": true
 }

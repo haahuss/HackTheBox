@@ -99,4 +99,30 @@
 - [ ] what is asreproast
 - [ ] use winPEAS.ps1 to run winpeas on a target system to get creds
 	- [ ] use winPEAS to see stored credentials because without local admin, can't run mimikatz
+	- [ ] sensitive stuff on winpeas will be Red Highlight, Yellow Font!
 
+# 🟩 Monteverde
+- [ ] do rpc null auth manually (try anon/null auth in a number of ways)
+- [ ] use ldapsearch if absolutely no users
+- [ ] look for identifiers of using Azure AD (Connect)
+	- [ ] 
+
+# 🟦 Secnotes
+- [ ] on a website if you see a contact us page or some field to send an "email", PHISH
+	- [ ] put a test link and see if you get a hit on your python webserver
+	- [ ] try change_pass.php with new passowrd parameters
+	- [ ] maybe upload a shell and send the link to get a hit?
+	- [ ] *basically try to give a malicious link*
+- [ ] if you can upload files to the webroot, try different ways to get a reverse shell
+	- [ ] php-reverse-shell 
+		- [ ] works if the webserver parses php
+		- [ ] test it with a test php file
+	- [ ] invoke-powershelltcp
+	- [ ] nc.exe
+- [ ] use `sudo rlwrap nc -lvnp LPORT` instead of `nc -lvnp LPORT`
+- [ ] use manual and automated enumeration in Windows
+	- [ ] build methodology for manual enum
+	- [ ] look at WinPeas CAREFULLY
+	- [ ] there's def an interesting finding
+- [ ] if you find WSL, enumerate the rootfs w/ Linux enum methodology
+	- [ ] look at `.bash_history`

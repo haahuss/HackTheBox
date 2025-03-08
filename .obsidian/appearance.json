@@ -3,5 +3,8 @@
   "accentColor": "#75e190",
   "theme": "obsidian",
   "monospaceFontFamily": "Consolas",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSize": 17
 }
