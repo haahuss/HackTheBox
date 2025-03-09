@@ -16,7 +16,7 @@
 
 Find Open Ports:
 ```
-sudo nmap TARGET -p- -T5 -oA listopenports -Pn -n --disable-arp-ping
+sudo nmap 10.10.10.97 -p- -T5 -oA nmap/listopenports -Pn -n --disable-arp-ping
 
 PORT     STATE SERVICE
 80/tcp   open  http
@@ -34,7 +34,7 @@ cat listopenports.nmap | grep open | grep tcp | cut -d "/" -f1 | tr "\n" ","
 
 Full Scan:
 ```
-sudo nmap TARGET -p PORTS -A -oA fullscan -Pn -n --disable-arp-ping
+sudo nmap 10.10.10.97 -p 80,445,8808, -A -oA fullscan 
 
 PORT     STATE SERVICE      VERSION
 80/tcp   open  http         Microsoft IIS httpd 10.0
