@@ -15,9 +15,9 @@
               "state": {
                 "file": "secnotes/canvas.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 339.0483792004335,
+                  "y": 5765.917783908759,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -98,14 +98,12 @@
             "id": "27b8e6d274b53cfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "secnotes/loot.md",
-                "mode": "source",
-                "source": false
+                "file": "escape/attachments/Pasted image 20250213213206.png"
               },
-              "icon": "lucide-file",
-              "title": "loot"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250213213206"
             }
           },
           {
@@ -121,26 +119,9 @@
               "icon": "lucide-file",
               "title": "I learned"
             }
-          },
-          {
-            "id": "640159b14f57b570",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "sauna/canvas.canvas",
-                "viewState": {
-                  "x": 1209.1251464326497,
-                  "y": 2026.0945903217735,
-                  "zoom": -3.1769492759148537
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "canvas"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -282,17 +263,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e31c1624a36b042",
+  "active": "27b8e6d274b53cfa",
   "lastOpenFiles": [
-    "sauna/canvas.canvas",
-    "I learned.md",
     "secnotes/loot.md",
-    "secnotes/Commands.md",
-    "secnotes/General Notes.md",
     "secnotes/canvas.canvas",
+    "I learned.md",
+    "asfd.md",
+    "sauna/canvas.canvas",
+    "secnotes/General Notes.md",
+    "secnotes/attachments/Pasted image 20250308154716 - Copy.png",
+    "secnotes/nmap scans.md",
+    "TEMPLATE/nmap scans.md",
+    "secnotes/attachments/Pasted image 20250308153941.png",
+    "secnotes/attachments/Pasted image 20250308174438.png",
+    "secnotes/attachments/Pasted image 20250308171719.png",
+    "secnotes/attachments/Pasted image 20250308171610.png",
+    "secnotes/attachments/Pasted image 20250308170905.png",
+    "secnotes/attachments/Pasted image 20250308170822.png",
+    "secnotes/attachments/Pasted image 20250308170545.png",
+    "secnotes/attachments/Pasted image 20250308170505.png",
+    "secnotes/attachments/Pasted image 20250308165909.png",
+    "secnotes/attachments",
+    "secnotes/Commands.md",
     "secnotes/Web Stuff.md",
     "secnotes/nxc scans.md",
-    "secnotes/nmap scans.md",
     "monteverde/canvas.canvas",
     "monteverde/loot.md",
     "secnotes",
@@ -314,19 +308,7 @@
     "sauna/Commands.md",
     "sauna/nxc scans.md",
     "sauna/nmap scans.md",
-    "sauna/attachments/Pasted image 20250306200904.png",
-    "sauna/attachments/Pasted image 20250306194232.png",
-    "sauna/attachments/Pasted image 20250306194001.png",
-    "sauna/attachments/Pasted image 20250306193746.png",
-    "sauna/attachments/Pasted image 20250306193232.png",
-    "sauna/attachments/Pasted image 20250306191952.png",
-    "sauna/attachments/Pasted image 20250306191736.png",
-    "sauna/attachments/Pasted image 20250306191639.png",
-    "sauna/attachments/Pasted image 20250306191516.png",
-    "sauna/attachments/Pasted image 20250306191449.png",
-    "certified/General Notes.md",
     "sauna/attachments",
-    "escapetwo/nmap scans.md",
     "sauna",
     "TEMPLATE/canvas.canvas",
     "certified/canvas.canvas",
@@ -335,7 +317,6 @@
     "escapetwo/attachments/Pasted image 20250304154548.png.~tmp",
     "~$accounting_2024.xlsx",
     "accounting_2024.xlsx",
-    "escapetwo/attachments",
     "mailing/canvas.canvas",
     "escape/canvas.canvas",
     "poison/canvas.canvas"
