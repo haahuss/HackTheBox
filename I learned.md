@@ -42,7 +42,7 @@
 - [ ] use pspy to see what's running in the background
 
 # 🟦 Chatterbox
-*I HATE THIS BOX*
+**I HATE THIS BOX**
 
 
 # 🟨 Poison
@@ -102,6 +102,7 @@
 	- [ ] sensitive stuff on winpeas will be Red Highlight, Yellow Font!
 
 # 🟩 Monteverde
+**WATCH IPPSEC VIDEO AGAIN FOR FULL PRIVESC METHODOLOGY**
 - [ ] do rpc null auth manually (try anon/null auth in a number of ways)
 - [ ] use ldapsearch if absolutely no users
 - [ ] look for identifiers of using Azure AD (Connect)
