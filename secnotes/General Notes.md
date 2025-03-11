@@ -21,4 +21,4 @@ secnotes.htb
 8. navigate and enumerate WSL rootfs dir
 9. see that bash_history has admin creds stored in it
 10. use the creds with nxc, **GOT ADMIN ACCESS**
-	1. login with PSEXEC (psexec gives )
+	1. login with PSEXEC
