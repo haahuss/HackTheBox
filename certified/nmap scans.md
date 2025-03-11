@@ -40,7 +40,6 @@ PORT      STATE SERVICE
 61931/tcp open  unknown
 
 Nmap done: 1 IP address (1 host up) scanned in 58.70 seconds
-                                                                                                                                                            
 
 ```
 

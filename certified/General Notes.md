@@ -14,4 +14,4 @@ judith ***writeowner*** Management Group ***GenericWrite*** management_svc ***Ge
 2. Management Group ***GenericWrite*** management_svc 
 3. management_svc ***GenericAll*** ca_operator
 4. use `ca_operator` creds to find vuln certificate
-5. exploit ESC
+5. exploit ESC9

