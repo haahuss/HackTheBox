@@ -119,11 +119,22 @@
 		- [ ] works if the webserver parses php
 		- [ ] test it with a test php file
 	- [ ] invoke-powershelltcp
-	- [ ] nc.exe
+	- [ ] webshell then nc.exe
 - [ ] use `sudo rlwrap nc -lvnp LPORT` instead of `nc -lvnp LPORT`
 - [ ] use manual and automated enumeration in Windows
 	- [ ] build methodology for manual enum
-	- [ ] look at WinPeas CAREFULLY
+	- [ ] look at WinPeas CAREFULLY (the colors have meaning bruh!)
 	- [ ] there's def an interesting finding
 - [ ] if you find WSL, enumerate the rootfs w/ Linux enum methodology
 	- [ ] look at `.bash_history`
+
+
+# 🟩 Timelapse
+- [ ] don't provide any password when trying listing shares as Anonymous
+	- [ ] you'll verify the anon/guest account exists but it won't list shares. Password could also be empty!
+	- [ ] so try all permutations empty user, empty password, both empty, both random. 
+- [ ] use Anonymous user for smb shares, other Guest users won't work even though nxc shows that they work
+- [ ] USE `-S` FLAG IN evil-winRM command if it's over winRM over HTTPS!!!
+- [ ] learned ReadLAPSPassword permission abuse, very easy on both windows and linux
+	- [ ] even though the output will say something like DC01$, try the password shown with Administrator to verify. It actually was Administrator password smh bruhhhh
+- [ ] 
