@@ -104,9 +104,12 @@
 # 🟩 Monteverde
 **WATCH IPPSEC VIDEO AGAIN FOR FULL PRIVESC METHODOLOGY**
 - [ ] do rpc null auth manually (try anon/null auth in a number of ways)
-- [ ] use ldapsearch if absolutely no users
+- [ ] use ldapsearch if absolutely no users, or try to list users with empty user/pass
+- [ ] learned to use sqlcmd on powershell and PowerUpSQL
+- [ ] learn to read and research well on what to do with exploit poc scripts
 - [ ] look for identifiers of using Azure AD (Connect)
-	- [ ] 
+- [ ] learn to read ADSync database to get creds
+
 
 # 🟦 Secnotes
 - [ ] on a website if you see a contact us page or some field to send an "email", PHISH
@@ -138,3 +141,16 @@
 - [ ] learned ReadLAPSPassword permission abuse, very easy on both windows and linux
 	- [ ] even though the output will say something like DC01$, try the password shown with Administrator to verify. It actually was Administrator password smh bruhhhh
 - [ ] 
+
+# 🟩 Flight
+- [ ] subdomain enum with different tools, try them all, be aware of the command args it's easy to mess up and waste time
+- [ ] remember what OS you are using when doing LFI or whatevs. Different OS have different standard files and dirs
+- [ ] on windows, if you can do an LFI or RFI, then the service will authenticate if you're asking it to include a file from SMB!
+- [ ] when we can write to a share, we can try to put a malicous file that gives us a hash
+	- [ ] use `ntlm_theft` from github
+- [ ] use nc with webshell for windows, best results!
+- [ ] using runasCs.exe instead of normal runas
+	- [ ] runas normally prompts for password, can't do that in a reverse shell
+	- [ ] RunasCs.exe will let you spawn a totally new shell with the new user you want
+- [ ] TGT Delegation
+	- [ ] what the flip is this even???
