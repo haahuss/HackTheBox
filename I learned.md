@@ -114,7 +114,7 @@
 # 🟦 Secnotes
 - [ ] on a website if you see a contact us page or some field to send an "email", PHISH
 	- [ ] put a test link and see if you get a hit on your python webserver
-	- [ ] try change_pass.php with new passowrd parameters
+	- [ ] try change_pass.php with new passowrd parameters (use get instead of post request)
 	- [ ] maybe upload a shell and send the link to get a hit?
 	- [ ] *basically try to give a malicious link*
 - [ ] if you can upload files to the webroot, try different ways to get a reverse shell
