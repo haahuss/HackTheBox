@@ -154,3 +154,9 @@
 	- [ ] RunasCs.exe will let you spawn a totally new shell with the new user you want
 - [ ] TGT Delegation
 	- [ ] what the flip is this even???
+
+🟨 Dog
+- [ ] use git-dumper to get all files and read them araam se
+- [ ] use grep to look for some juicy creds or files
+- [ ] read files from a code editor instead of using cat
+- [ ] 
