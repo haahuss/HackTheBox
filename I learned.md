@@ -155,8 +155,16 @@
 - [ ] TGT Delegation
 	- [ ] what the flip is this even???
 
-🟨 Dog
+# 🟨 Dog
 - [ ] use git-dumper to get all files and read them araam se
 - [ ] use grep to look for some juicy creds or files
 - [ ] read files from a code editor instead of using cat
-- [ ] 
+
+# 🟩 Return
+- [ ] *for privesc* look at permissions as well as the groups the user belongs to. Try different abuses. 
+- [ ] if you see a request that navigates to an IP, test it out with your IP as netcat, webserver, and **responder**!
+- [ ] how to abuse a user in the Server Operators group
+	- [ ] you can write to a process, so you create your own process that runs a reverse shell executable.
+- [ ] run bloodhound with your initial user, even if you know the abuse. **Just do it**
+	- [ ] see the groups the user is a part of, not just outbound object control
+
