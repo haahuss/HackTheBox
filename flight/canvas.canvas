@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"9dc21a83e7826290","type":"file","file":"flight/attachments/Pasted image 20250311143728.png","x":-380,"y":-320,"width":788,"height":100},
 		{"id":"f5b155ddd098e3c3","type":"file","file":"flight/attachments/Pasted image 20250311144057.png","x":-386,"y":-180,"width":794,"height":543},
-		{"id":"70bf4cce587bb0ec","type":"file","file":"flight/attachments/Pasted image 20250311151050.png","x":-320,"y":-740,"width":663,"height":160},
 		{"id":"1036697baa0377e1","type":"file","file":"flight/attachments/Pasted image 20250311153054.png","x":-386,"y":920,"width":793,"height":521},
 		{"id":"8e7f1ba1c829853c","type":"text","text":"fuzz","x":-198,"y":555,"width":250,"height":60},
 		{"id":"2436231fbb89c5af","type":"file","file":"flight/attachments/Pasted image 20250311153607.png","x":-386,"y":1520,"width":794,"height":520},
@@ -20,9 +19,7 @@
 		{"id":"37747100b28d3854","type":"file","file":"flight/attachments/Pasted image 20250311162440.png","x":340,"y":5620,"width":1021,"height":240},
 		{"id":"f44d556c54c7beb3","type":"file","file":"flight/attachments/Pasted image 20250311162636.png","x":-510,"y":5960,"width":1055,"height":287},
 		{"id":"f5a9c601446cdcf3","type":"file","file":"flight/attachments/Pasted image 20250311163051.png","x":-510,"y":6320,"width":1055,"height":280},
-		{"id":"1626d4fe7e4b6430","type":"file","file":"flight/attachments/Pasted image 20250311173658.png","x":-510,"y":6680,"width":1055,"height":205},
 		{"id":"294765fdcbcd3dc0","type":"file","file":"flight/attachments/Pasted image 20250311173811.png","x":-505,"y":8040,"width":1045,"height":160},
-		{"id":"34058093f63fc574","type":"text","text":"https://github.com/Greenwolf/ntlm_theft","x":-1120,"y":7466,"width":524,"height":75},
 		{"id":"cd60d7c5050d6238","type":"file","file":"flight/attachments/Pasted image 20250311174050.png","x":-510,"y":8280,"width":1050,"height":281},
 		{"id":"5eec1ae21f37a1b3","type":"file","file":"flight/attachments/Pasted image 20250311175151.png","x":-510,"y":10058,"width":1048,"height":412},
 		{"id":"ef9f0934bdde5115","type":"file","file":"flight/attachments/Pasted image 20250311175136.png","x":-510,"y":10584,"width":1045,"height":372},
@@ -35,13 +32,12 @@
 		{"id":"170467d94cd83b5f","type":"file","file":"flight/attachments/Pasted image 20250312171242.png","x":-486,"y":17958,"width":1002,"height":389},
 		{"id":"43c9b6a147dacc8f","type":"file","file":"flight/attachments/Pasted image 20250312162534.png","x":-486,"y":14850,"width":1001,"height":486},
 		{"id":"ad826bab4d7ecd35","type":"file","file":"flight/attachments/Pasted image 20250312162603.png","x":591,"y":14927,"width":1001,"height":334},
-		{"id":"bb4873bcdb55d6ca","type":"text","text":"https://raw.githubusercontent.com/borjmz/aspx-reverse-shell/refs/heads/master/shell.aspx","x":-1517,"y":14987,"width":834,"height":211},
+		{"id":"bb4873bcdb55d6ca","type":"text","text":"https://raw.githubusercontent.com/borjmz/aspx-reverse-shell/refs/heads/master/shell.aspx","x":-1517,"y":14987,"width":834,"height":73},
 		{"id":"db8e8ef00849fbc8","type":"file","file":"flight/attachments/Pasted image 20250312164835.png","x":-486,"y":15532,"width":1001,"height":320},
 		{"id":"c096484069ff62d7","type":"text","text":"https://notes.benheater.com/books/network-pivoting/page/port-forwarding-with-chisel#bkmrk-individual-port-forw","x":-1411,"y":15702,"width":626,"height":151},
 		{"id":"9ba55bd4b604ce78","type":"file","file":"flight/attachments/Pasted image 20250312153858.png","x":-486,"y":12744,"width":1002,"height":488},
 		{"id":"1694946b7e83c50f","type":"file","file":"flight/attachments/Pasted image 20250312154229.png","x":-486,"y":13346,"width":1001,"height":248},
 		{"id":"907437350c6391dd","type":"file","file":"flight/attachments/Pasted image 20250312155043.png","x":-486,"y":13697,"width":1001,"height":544},
-		{"id":"e05fbab4001f860f","type":"text","text":"https://github.com/antonioCoco/RunasCs","x":-1414,"y":13747,"width":626,"height":151},
 		{"id":"f362fad3e5379d56","type":"file","file":"flight/attachments/Pasted image 20250312161535.png","x":-486,"y":14348,"width":999,"height":336},
 		{"id":"2271793d87688cf6","type":"file","file":"flight/attachments/Pasted image 20250312152926.png","x":-486,"y":11040,"width":1001,"height":574},
 		{"id":"e268d365c2ae2825","type":"file","file":"flight/attachments/Pasted image 20250312153347.png","x":1594,"y":11077,"width":1001,"height":501},
@@ -61,7 +57,11 @@
 		{"id":"bc1628e4e4af7fe8","type":"text","text":"netstat -ano | findstr LISTENING","x":2697,"y":11295,"width":323,"height":65},
 		{"id":"eee28a97b4daa0a2","type":"file","file":"flight/attachments/Pasted image 20250311173606.png","x":-505,"y":6960,"width":1054,"height":366},
 		{"id":"1a8c7039690ae40e","type":"file","file":"flight/attachments/Pasted image 20250311173630.png","x":-510,"y":7400,"width":1055,"height":247},
-		{"id":"2e8c553541cfd22a","type":"file","file":"flight/attachments/Pasted image 20250311173555.png","x":-510,"y":7780,"width":1055,"height":134}
+		{"id":"2e8c553541cfd22a","type":"file","file":"flight/attachments/Pasted image 20250311173555.png","x":-510,"y":7780,"width":1055,"height":134},
+		{"id":"70bf4cce587bb0ec","type":"file","file":"flight/attachments/Pasted image 20250311151050.png","x":-317,"y":-540,"width":663,"height":160},
+		{"id":"1626d4fe7e4b6430","type":"file","file":"flight/attachments/Pasted image 20250311173658.png","x":-505,"y":6680,"width":1055,"height":205},
+		{"id":"34058093f63fc574","type":"text","text":"https://github.com/Greenwolf/ntlm_theft","x":-1020,"y":7487,"width":400,"height":74},
+		{"id":"e05fbab4001f860f","type":"text","text":"https://github.com/antonioCoco/RunasCs","x":-960,"y":13800,"width":420,"height":80}
 	],
 	"edges":[]
 }

@@ -33,3 +33,4 @@
 12. use shell with defaultapppool to request TGT (use rubeus too)
 13. use TGT for TGT delegation: decode b64, kirbi2ccache, then impacket-secretsdump
 14. get Admin hash, use impacket-psexec to get a shell.
+
